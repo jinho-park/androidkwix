@@ -7,4 +7,4 @@ sejin-jin
 youlim-chae
 dongho-choi
 
-coperation project
+project
