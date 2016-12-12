@@ -1,0 +1,40 @@
+package com.example.owner.practice;
+
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentTransaction;
+import android.support.v7.app.AppCompatActivity;
+
+/**
+ * Created by Owner on 2016-10-03.
+ */
+public class FragmentActivity extends AppCompatActivity {
+    final int MYPAGE = 1;
+    final int SETTING = 2;
+    final int NOTICE = 3;
+
+    public void fragmentReplace(int index){
+        Fragment newfragment = null;
+
+        newfragment= getFragment(index);
+
+        final FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+        transaction.replace(R.id.container, newfragment);
+        transaction.commit();
+    }
+
+    private Fragment getFragment(int idx) {
+        Fragment newfragment = null;
+        switch (idx){
+            case MYPAGE:
+                //newfragment = new Upload_Fragment();
+                break;
+            case SETTING:
+                newfragment = new Setting_Fragment();
+                break;
+            case NOTICE:
+                newfragment = new Notice_Fragment();
+                break;
+        }
+        return newfragment;
+    }
+}
