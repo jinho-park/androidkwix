@@ -1,6 +1,7 @@
 package socket;
 
 import java.net.Socket;
+import com.example.owner.practice.*;
 import java.util.Vector;
 import java.io.*;
 import java.sql.*;
@@ -21,6 +22,16 @@ public class ClientThread extends Thread{
 			oos= new ObjectOutputStream(sock.getOutputStream());
 			br = new BufferedReader(new InputStreamReader(sock.getInputStream()));
 			System.out.println("thread start");
+			Notice_List data = new Notice_List();
+			data.setCat("all");
+			data.setDate("12/31");
+			data.setTitle("birthday");
+			data.setUrls("www.naver.com");
+			string=br.readLine();
+			System.out.println(string);
+			oos.writeObject(data);
+			oos.flush();
+			sock.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

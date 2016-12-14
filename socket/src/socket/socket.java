@@ -18,7 +18,6 @@ public class socket {
 				socket = sock.accept();
 				System.out.println("connected");
 				br = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-				System.out.println(br.readLine());
 				
 				new ClientThread(socket).start();
 			}
