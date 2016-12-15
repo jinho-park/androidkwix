@@ -4,24 +4,24 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="84236778169235"
+    timestamp="169142295257152"
     token="1638853171936738043" >
 
     <task
         name="javac"
-        duration="2488" />
+        duration="969" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1359" />
+        duration="548" />
     <task
         name="verifier"
-        duration="187" />
+        duration="307" />
 
     <artifact
-        location="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build timestamp="234513651620080" >

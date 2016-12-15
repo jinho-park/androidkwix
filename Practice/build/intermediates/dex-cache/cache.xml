@@ -2,74 +2,74 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="477d766ee60879f8a3d182bf3afa93fe5e70f5fe">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fe31f1dc1a6007b6b13315b46a93a66f6b8537c0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_98ac48acc3f2aaf9d6c0b82801b9c52186e247b2\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_d9107a44e8e30401e1cddae3674e9ce47446f4d7\classes.dex" />
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_a31b21e35a9861c0c84204e4d8a2ba67432a7f34\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_4a5f73db7114084a79d4823fa33e7c89a4027b4f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_5ce851198d23097cfa4958edb3ccbe8b4dea5b0a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_9af46cd2463a6f7d4d990116f9fa9f24f409ba02\classes.dex" />
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_73ec3d400abd944b851b9dd8118ee3e00872a350\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_a52e818152c1d3acc09f9b36c7f172409aa93734\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d9f924fb96b3501466efa61eb2a2eace69ec660d">
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c6cb09af33f65841a76c16e7bb539843e19e435b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_798e0a932753fb522785d00479eb3d3cb04dcea7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_0dffd61657cf8365df420ac380ffba175e958574\classes.dex" />
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_8d4c443620483c8e60b540eb69d377aee21e2a0b\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="fa117fb491458018d528c3e12f3c77dbfb6a5c35">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef1f769e09e9fc2902ec231b8f9092f7e7be64c7\classes.dex" />
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_a89e7e5d7a494f3d95662e20c5985fb475a4e87e\classes.dex" />
     </item>
     <item
         jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_960606c4da1239af26e35e95fea47588c82ad462\classes.dex" />
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_960606c4da1239af26e35e95fea47588c82ad462\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b00c042ae862907b2976cfafde9def55ed12e4e5">
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41dbccd5456af48b787329e92922ac1376dad0ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_8cb2cd0c04df3ceb599d60cbfbf2f4c7ae117b55\classes.dex" />
+        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_63062048ba2e89e1f22ea146588cc3be5e381a79\classes.dex" />
     </item>
 
 </items>
