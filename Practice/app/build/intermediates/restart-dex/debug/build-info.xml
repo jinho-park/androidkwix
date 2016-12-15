@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="84236778169235"
+    token="1638853171936738043" >
+
+    <task
+        name="javac"
+        duration="2488" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1359" />
+    <task
+        name="verifier"
+        duration="187" />
+
+    <artifact
+        location="C:\Users\Owner\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="234513651620080" >
+        <artifact
+            location="C:\Users\Owner\AndroidStudioProjects\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
