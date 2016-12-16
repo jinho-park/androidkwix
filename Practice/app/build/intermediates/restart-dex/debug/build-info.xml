@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
-    density="xxxhdpi"
-    format="7"
-    timestamp="169142295257152"
-    token="1638853171936738043" >
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="10681345536037"
+    token="8167230574019567420"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="969" />
+        duration="609" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="548" />
+        duration="380" />
     <task
         name="verifier"
-        duration="307" />
+        duration="132" />
 
     <artifact
-        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\HATA\Desktop\Practice\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="234513651620080" >
+    <build
+        timestamp="10681345536037"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Owner\AndroidStudioProjects\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
+            location="C:\Users\HATA\Desktop\Practice\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
     </build>
 
 </instant-run>

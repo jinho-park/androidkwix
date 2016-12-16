@@ -2,74 +2,94 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_a31b21e35a9861c0c84204e4d8a2ba67432a7f34\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_73ec3d400abd944b851b9dd8118ee3e00872a350\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
+        optimize="true"
         revision="24.0.0"
         sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_a52e818152c1d3acc09f9b36c7f172409aa93734\classes.dex" />
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_e2a4bcb3a5b9c7f450e6ac605d3bc16acc14d2cc\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="d9f924fb96b3501466efa61eb2a2eace69ec660d">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c6cb09af33f65841a76c16e7bb539843e19e435b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_798e0a932753fb522785d00479eb3d3cb04dcea7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_8d4c443620483c8e60b540eb69d377aee21e2a0b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
-        jumboMode="true"
+        optimize="true"
         revision="24.0.0"
         sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_a89e7e5d7a494f3d95662e20c5985fb475a4e87e\classes.dex" />
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_98e75f0ab5f87a11134cd53a81c65ef96b4f2f59\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_960606c4da1239af26e35e95fea47588c82ad462\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="b00c042ae862907b2976cfafde9def55ed12e4e5">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41dbccd5456af48b787329e92922ac1376dad0ae\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
+        optimize="true"
         revision="24.0.0"
         sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_63062048ba2e89e1f22ea146588cc3be5e381a79\classes.dex" />
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_3b85553ecdc23638fa193bc0156c7111d572790f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HATA\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_0d45ae1697716072da891cedcfd569c15f555fe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2d337ba95949eb93cdee7b3ce7270a48705911fe">
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b7a8f2d1e64469292aa91e9e873988be60ad1e35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_c439fcd5b8a6cdb4956cafad8da7ee416d00c7ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_cfedc09a80281fb4c53e890f46d08658bc19c350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_6f36e83beca3fc365e087a329248460a3ea491e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e4f12cf08e129715d32ee7d5f14dbcab8a9fb45">
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f8cc6772d4df728b3f12fe5e64d3c5b43db5f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_17bf02efa4828cc57a408ef0e0f4a2a9337d3080\classes.dex" />
     </item>
 
 </items>
