@@ -1,7 +1,7 @@
-#Fri Dec 16 13:52:36 KST 2016
-base.0=C\:\\Users\\HATA\\Desktop\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7a8f2d1e64469292aa91e9e873988be60ad1e35
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\HATA\\Desktop\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f8cc6772d4df728b3f12fe5e64d3c5b43db5f40\\classes.dex
-base.1=C\:\\Users\\HATA\\Desktop\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f8cc6772d4df728b3f12fe5e64d3c5b43db5f40
-file.0=C\:\\Users\\HATA\\Desktop\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7a8f2d1e64469292aa91e9e873988be60ad1e35\\classes.dex
+#Sat Dec 17 14:27:25 KST 2016
+base.0=D\:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08687c3213991501c495f2a7ec563b5a0d3fc225
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_71d06364f862075159327bbed05bbfc85cd49305\\classes.dex
+base.1=D\:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_71d06364f862075159327bbed05bbfc85cd49305
+file.0=D\:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08687c3213991501c495f2a7ec563b5a0d3fc225\\classes.dex
