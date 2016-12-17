@@ -1,32 +1,26 @@
 package com.example.owner.practice;
 
-import android.Manifest;
-import android.content.pm.PackageManager;
-import android.os.Build;
+import android.app.AlarmManager;
+import android.app.PendingIntent;
+import android.content.Context;
+import android.content.Intent;
 import android.support.design.widget.NavigationView;
-import android.support.v4.app.*;
-import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarDrawerToggle;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
-import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
+
+import java.util.Calendar;
 
 public class MainActivity extends FragmentActivity implements NavigationView.OnNavigationItemSelectedListener{
-    private static final int MY_PERMISSION_REQUEST_INTERNET = 2;
-    private static final String TAG = "Internet permission";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        PermissionCheck();
         setContentView(R.layout.activity_main);
         //getSupportActionBar().hide();
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar);
@@ -39,6 +33,27 @@ public class MainActivity extends FragmentActivity implements NavigationView.OnN
 
         NavigationView navigationView = (NavigationView)findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+        AlarmManager alarm = (AlarmManager) this
+                .getSystemService(Context.ALARM_SERVICE);
+        Intent intent = new Intent(MainActivity.this,
+                Testactivity.class);
+        PendingIntent pender = PendingIntent.getBroadcast(
+                MainActivity.this, 0, intent, 0);
+        Calendar calendar = Calendar.getInstance();
+        int year = calendar.get(Calendar.YEAR);//올해
+        int month = calendar.get(Calendar.MONTH);//이번달(10월이면 9를 리턴받는다. calendar는 0월부터 11월까지로 12개의월을 사용)
+        int day = calendar.get(Calendar.DAY_OF_MONTH);//오늘날짜
+        int hour = calendar.get(Calendar.HOUR_OF_DAY);//현재시간
+        int minute = calendar.get(Calendar.MINUTE);//현재
+        calendar.set(year, month, day, hour, 29);
+        alarm.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),
+                24 * 60 * 60 * 1000, pender);
+        pender = PendingIntent.getBroadcast(
+                MainActivity.this, 1, intent, 0);
+        calendar.set(year, month, day, hour, 30);
+        alarm.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(),
+                24 * 60 * 60 * 1000, pender);
+
     }
 
     @Override
@@ -88,20 +103,5 @@ public class MainActivity extends FragmentActivity implements NavigationView.OnN
         DrawerLayout drawer = (DrawerLayout)findViewById(R.id.activity_main);
         drawer.closeDrawer(GravityCompat.START);
         return true;
-    }
-
-    public void PermissionCheck(){
-        Log.d(TAG, "Permission Check");
-
-        //if(Build.VERSION.SDK_INT>=23){
-            if(ContextCompat.checkSelfPermission(this, Manifest.permission.INTERNET) != PackageManager.PERMISSION_GRANTED){
-                Log.d(TAG, "INTERNET SUCCESS");
-                if(ActivityCompat.shouldShowRequestPermissionRationale(this, Manifest.permission.INTERNET)){
-                    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.INTERNET}, MY_PERMISSION_REQUEST_INTERNET);
-                }else {
-                    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.INTERNET}, MY_PERMISSION_REQUEST_INTERNET);
-                }
-            }
-        //}
     }
 }

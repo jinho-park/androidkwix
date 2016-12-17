@@ -4,9 +4,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
-/**
- * Created by Owner on 2016-10-03.
- */
 public class FragmentActivity extends AppCompatActivity {
     final int MYPAGE = 1;
     final int SETTING = 2;

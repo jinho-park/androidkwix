@@ -6,11 +6,8 @@ import java.io.*;
 import java.net.Socket;
 import java.util.Vector;
 
-/**
- * Created by Owner on 2016-11-18.
- */
 public class QueryThread extends Thread {
-    final String IP = "192.168.56.1";
+    final String IP = "192.168.0.22";
     final int PORT = 8000;
     final String TAG = "INTERNET";
     private Socket sock;
@@ -18,12 +15,14 @@ public class QueryThread extends Thread {
     private ObjectInputStream Ois;
     private boolean INTERNET_CONNET = false;
     private String message;
-    private Vector<Notice_List> vec;
     private Notice_List nl;
+    Notice_Fragment mContext;
+    Vector<Notice_List> mNoticelist;
 
-    public QueryThread(Vector<Notice_List> vec, String m){
+    public QueryThread(String m, Notice_Fragment mContext, Vector<Notice_List> notice){
         this.message = m;
-        this.vec = vec;
+        this.mContext =mContext;
+        this.mNoticelist = notice;
     }
 
     @Override
@@ -33,18 +32,21 @@ public class QueryThread extends Thread {
                 sock = new Socket(IP, PORT);
                 INTERNET_CONNET = true;
             }
+            Log.d(TAG, "Connect");
             pw = new PrintWriter(sock.getOutputStream());
             Ois = new ObjectInputStream(sock.getInputStream());
             pw.println(message);
             pw.flush();
-            while((nl = (Notice_List)Ois.readObject()) != null){
-                vec.add(nl);
-            }
-            Log.d(TAG, vec.get(1).getUrls());
+            nl=(Notice_List)Ois.readObject();
+            Log.d(TAG, nl.getTitles());
+            mNoticelist.add(nl);
+
+            //get data complete and send success message
+            mContext.handler.sendEmptyMessage(mContext.THREAD_QUERY_SUCCESS_INFO);
         }catch (IOException e){
             Log.d(TAG, e.toString());
         }catch (ClassNotFoundException e){
-            Log.d(TAG, e.toString());
+            Log.d(TAG, "Class Not Found");
         }
     }
 }

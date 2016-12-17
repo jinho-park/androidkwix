@@ -7,30 +7,19 @@ import java.util.List;
 import java.util.UUID;
 import java.util.Vector;
 
-/**
- * Created by Owner on 2016-11-11.
- */
 public class NoticeLab {
     private static NoticeLab sNoticeLab;
-    private Vector<Notice_List> mVector;
+    private Vector<Notice_List> notices;
 
-    public static NoticeLab get(Context context, Vector<Notice_List> vec) {
+    public static NoticeLab get(Context context) {
         if(sNoticeLab == null) {
-            sNoticeLab = new NoticeLab(context, vec);
+            sNoticeLab = new NoticeLab();
         }
         return sNoticeLab;
     }
 
-    private NoticeLab(Context context, Vector<Notice_List> vec) {
-        this.mVector = vec;
-    }
-
-    public Vector<Notice_List> getNotices() {
-        return mVector;
-    }
-
     public Notice_List getNotice(UUID id) {
-        for(Notice_List list : mVector) {
+        for(Notice_List list : notices) {
             if(list.getId().equals(id)) {
                 return list;
             }

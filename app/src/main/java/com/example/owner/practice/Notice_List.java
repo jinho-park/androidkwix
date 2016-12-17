@@ -1,23 +1,19 @@
 package com.example.owner.practice;
 
+import java.io.Serializable;
 import java.util.UUID;
 
-/**
- * Created by Owner on 2016-11-11.
- */
-public class Notice_List {
+public class Notice_List implements Serializable{
+    static final long serialVersionUID=-6618469841127325812L;
+
     private UUID mId;
     private String url;
     private String cat;
     private String date;
     private String title;
 
-    public Notice_List(String string, String string2, String string3, String string4){
+    public Notice_List(){
         this.mId=UUID.randomUUID();
-        this.url=string;
-        this.cat=string2;
-        this.date=string3;
-        this.title=string4;
     }
 
     public int getlistsize(){
@@ -42,5 +38,21 @@ public class Notice_List {
 
     public UUID getId(){
         return mId;
+    }
+
+    public void setTitle(String title){
+        this.title = title;
+    }
+
+    public void setUrls(String url){
+        this.url = url;
+    }
+
+    public void setCat(String cat){
+        this.cat = cat;
+    }
+
+    public void setDate(String date){
+        this.date = date;
     }
 }
