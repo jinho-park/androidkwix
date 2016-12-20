@@ -1,63 +1,82 @@
 #!/usr/bin/python
+import logging
+from apscheduler.schedulers.blocking import BlockingScheduler
 
-import MySQLdb
+sched = BlockingScheduler()
 
-# Open database connection
-db = MySQLdb.connect("localhost","root","jinsejin2","Notice")
+###########################################################################3
+def todo_action():
+	import MySQLdb
 
-# prepare a cursor object using cursor() methond
-cursor = db.cursor()
+	# Open database connection
+	db = MySQLdb.connect("localhost","root","jinsejin2","Notice")
 
-# execute SQL query using execute () method
-cursor.execute("DROP TABLE IF EXISTS Notice")
+	# prepare a cursor object using cursor() methond
+	cursor = db.cursor()
 
-# Create table as per requirement
-sql = """CREATE TABLE Notice (
-	Id INT PRIMARY KEY AUTO_INCREMENT,
-	Category VARCHAR(50) NOT NULL,
-	Title VARCHAR(255),
-	Hyperlink VARCHAR(255),
-	Date VARCHAR(50))"""
+	# execute SQL query using execute () method
+	cursor.execute("DROP TABLE IF EXISTS Notice")
 
-cursor.execute(sql)
+	# Create table as per requirement
+	sql = """CREATE TABLE Notice (
+		Id INT PRIMARY KEY AUTO_INCREMENT,
+		Category VARCHAR(50) NOT NULL,
+		Title VARCHAR(255),
+		Hyperlink VARCHAR(255),
+		Date VARCHAR(50))"""
 
-#import BeautifulSoup
-from bs4 import BeautifulSoup
-from urllib.request import Request,urlopen
-url = 'http://www.kw.ac.kr/ko/life/notice.do'
+	cursor.execute(sql)
 
-#contact webpage
-req = Request(url, headers={'User-Agent':'Mozilla/5.0'})
-webpage = urlopen(req).read()
-urlopen(req).close()
+	#import BeautifulSoup
+	from bs4 import BeautifulSoup
+	from urllib.request import Request,urlopen
+	url = 'http://www.kw.ac.kr/ko/life/notice.do'
 
-soup = BeautifulSoup(webpage,"lxml")
-sample = soup.find_all('li',{'class':'top-notice'},{'class':'top-notice.row-bg'})
+	#contact webpage
+	req = Request(url, headers={'User-Agent':'Mozilla/5.0'})
+	webpage = urlopen(req).read()
+	urlopen(req).close()
+
+	soup = BeautifulSoup(webpage,"lxml")
+	sample = soup.find_all('li',{'class':'top-notice'},{'class':'top-notice.row-bg'})
 
 
-sql = """INSERT INTO Notice(Category, Title) VALUES(%s, %s)"""
-cntId = 1
+	sql = """INSERT INTO Notice(Category, Title) VALUES(%s, %s)"""
+	cntId = 1
 
-for s in sample:
-	if s.find_all('span',{'class':'ico-notice'}) != -1:
-		for category in s.find_all('a'):
-			print((category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[0].replace("\n",""),(category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[1],url+category.get('href'))
-			try:			
-				cursor.execute("INSERT INTO Notice(Category, Title, Hyperlink) VALUES('%s', '%s', '%s')" % ((category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[0].replace("\n",""),(category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[1],url+category.get('href')))
-				db.commit()
-			except:
-				db.rollback()
-		for date in s.find_all('p',{'class':'info'}):
-			print(date.text.split('  ')[3])
-			try:
-				# Execute the SQL command
-				cursor.execute("UPDATE Notice SET Date = '%s' WHERE Id = '%s'" % (date.text.split('  ')[3],cntId))
-				cntId = cntId + 1
-				# Commit your changes in the database
-				db.commit()
-			except:
-				# Rollback in case ther is any error
-				db.rollback()
-			
-#disconnect from server
-db.close()
+	for s in sample:
+		if s.find_all('span',{'class':'ico-notice'}) != -1:
+			for category in s.find_all('a'):
+				print((category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[0].replace("\n",""),(category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[1],url+category.get('href'))
+				try:			
+					cursor.execute("INSERT INTO Notice(Category, Title, Hyperlink) VALUES('%s', '%s', '%s')" % ((category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[0].replace("\n",""),(category.text).split('\n\t\t\t\t\t\t\n\t\t\t\t\t\t')[1],url+category.get('href')))
+					db.commit()
+				except:
+					db.rollback()
+			for date in s.find_all('p',{'class':'info'}):
+				print(date.text.split('  ')[3])
+				try:
+					# Execute the SQL command
+					cursor.execute("UPDATE Notice SET Date = '%s' WHERE Id = '%s'" % (date.text.split('  ')[3],cntId))
+					cntId = cntId + 1
+					# Commit your changes in the database
+					db.commit()
+				except:
+					# Rollback in case ther is any error
+					db.rollback()
+				
+	#disconnect from server
+	db.close()
+
+#############################################################################
+
+@sched.scheduled_job('cron',day_of_week='tue',hour=13,minute=40)
+def cron_job():
+	print ("Start Program!!")
+	#repeat program once in 10seconds
+	#id is need to be deleted => sched.remove_job("todo_action")
+	sched.add_job(todo_action,"interval", seconds=10,id="todo_action")
+	logging.basicConfig()
+
+#start scheduler
+sched.start()

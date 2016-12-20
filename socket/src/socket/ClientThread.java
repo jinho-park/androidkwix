@@ -35,7 +35,12 @@ public class ClientThread extends Thread{
 				java.sql.Statement st = null;
 				ResultSet rs = null;
 				st = conn.createStatement();
-				sql = "SELECT * FROM Notice";
+				//if(string.equals("test")) {
+					sql = "SELECT * FROM Notice";
+				//}
+				//else {
+				//	sql = "SELECT * FROM Notice WHERE id = 1";
+				//}
 				rs = st.executeQuery(sql);
 				
 				if(st.execute(sql)) {
