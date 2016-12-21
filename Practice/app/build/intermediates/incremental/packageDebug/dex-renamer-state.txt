@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 #Mon Dec 19 14:14:38 KST 2016
 base.0=D\:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+=======
+#Wed Dec 21 18:23:14 KST 2016
+base.0=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6eef3193dfdea4259d334c869f471bcb77d85037
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_203f9eab65eff2af8dbce523aa87626913b2c644/classes.dex
+base.1=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_203f9eab65eff2af8dbce523aa87626913b2c644
+file.0=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6eef3193dfdea4259d334c869f471bcb77d85037/classes.dex
+>>>>>>> 1c8330fbcb28ee25d8623cf4ddb4267d8fecf520
