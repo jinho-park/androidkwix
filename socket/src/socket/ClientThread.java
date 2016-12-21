@@ -46,7 +46,7 @@ public class ClientThread extends Thread{
 					Notice_List data = new Notice_List();
 					String str = rs.getString("Category");
 					if(str.equals("")) {
-						data.setCat("[ì—†ìŒ]");
+						data.setCat("[¾øÀ½]");
 					}
 					else {
 						data.setCat(str);

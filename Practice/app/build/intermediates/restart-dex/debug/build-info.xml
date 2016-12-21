@@ -5,39 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="3590234016684"
+    timestamp="3507446452877"
     token="4799000915992654591"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="150" />
+        duration="993" />
     <task
         name="instant-run-dex"
-        duration="323" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="90" />
+        duration="116" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
-        location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="D:\HATA\kwix_git\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build
-        timestamp="3549600702509"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
     <build
         timestamp="3590234016684"
         verifier="COMPATIBLE" >
         <artifact
-            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
+            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\builds\debug\3590234016684\classes.dex"
             type="RELOAD_DEX" />
     </build>
 

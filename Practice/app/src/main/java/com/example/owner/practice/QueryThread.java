@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.util.Vector;
 
 public class QueryThread extends Thread {
-    final String IP = "192.168.0.22";
+    final String IP = "192.168.0.101";
     final int PORT = 8000;
     final String TAG = "INTERNET";
     private Socket sock;

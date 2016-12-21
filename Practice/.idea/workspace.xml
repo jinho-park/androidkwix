@@ -11,127 +11,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33bccc0b-4291-4027-a3e2-9904d629ca02" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revprops/0/0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/d5/d51ac82a61b1e4f74adb6d5b69efc98c80af1365.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/format" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/c9/c938f59c26459571b70359115cbdb1d9f86904c2.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ae/ae86c9f2fefeb0a12f9e350975339bc580efd813.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e0/e05d14a5114ab249b4f642f795934980c55165cd.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/12/128b8855627e8d84af65091c1b2c550d9b535312.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-commit.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/42/429cfcb7c161e5fd60c9f155a6436ba5c78f7af7.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ab/aba713243296f9a589b3a9b9d0a7bc6dbd8ff628.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revs/0/1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/format" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/wc.db-journal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/64/64a761c1b1296b3f69fc93614102b165505abff4.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/57/57876beb715399767392a8379ed639ed39a40acb.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-revprop-change.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/txn-current" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/5e/5e3121f070b5792cb29894c72886dcbbc38b5d47.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/menu/activity_menu_drawer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/wc.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-commit.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e5/e5fa44f2b31c1fb553b6021e7360d07d5d91ff5e.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/41/41dc154e4ffff91ab2b070a4ce0ad15e50571bea.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/a2/a27d9a75da389f40e4f310f508315fa62f67cd2e.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-xxhdpi/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/conf/authz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/07/07e810e891d89bef67708f1f4f2da09520ec52ca.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/a7/a78f48fe9f9114f315dc79eff29452e93ffd709a.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/bf/bfb06a0e440ba6197e6a424470cc210f89e26304.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e7/e748c99b9306441f0038c3d8bab9d145181c18ec.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-unlock.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/98/986a473648bef4e3f7bf7852780f17348dafd6f0.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/94/94cee422c8963ed4570da8f29535c532be86b4c9.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-xhdpi/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/fsfs.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/17/17eb05cdd5ff505cee0d4e64e41f4a195d85226c.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/current" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-mdpi/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/setting.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/48/481f5aed1e1221fe21deda38f170a541fe7d7a59.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ca/cac22ff594b3baf6d111f57405f27b485463a68c.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/90/9056ef7b9931354522937f8b5719836fab883fba.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable/side_nav_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/da/da39a3ee5e6b4b0d3255bfef95601890afd80709.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/fs-type" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/45/45bc3e3eaa499a2251729781ab09f8e1951c0fe1.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/64/64cc68c33c8443fe609e083ab7a56d204855d176.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revs/0/0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-revprop-change.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/menu_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-lock.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/8e/8ee197128d3b2e6316934730e2ee65eef7160f24.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/1f/1f90a4e4b5763164cc6c45815a099ee788238f0d.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/6a/6a27beb6f5c72d671c821fa02b2312a31668dca1.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/49/49a62299ac581c4bdccc76d329bd28917452f4cb.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/svn.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/Manifest/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-lock.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-hdpi/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/f6/f61e3b7ac96da65e75ad9efe5476a7c3c95ad0cc.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/menu/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/min-unpacked-rev" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/txn-current-lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/7b/7b5753f846a1713cb0cbfd55ab1c8917224c2ac5.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/start-commit.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/33/332a0395d390d8fb12b18e94afebb56cb54e1245.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/locks/db-logs.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/37/37c1ba5d1252500bd4d4fcc866abce98c3691e05.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/09/09d2af8dd22201dd8d48e5dcfcaed281ff9422c7.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/rep-cache.db-journal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/87/87f68e9afdb70efdf4d870b114a516118a470b11.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/conf/passwd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/19/19272ebe351cb42c908b360fdb5aef4f8fe0b0d5.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/menu_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ec/ece1294c8010b2f785525d42a3aac7a71dd43505.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/6c/6c9d61716c7486e4d5e5458e7473941b9ad64af2.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/write-lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/conf/hooks-env.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/09/097bcd5cb7c4d625a8920c500a8424eb331d4ded.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ae/aecb806dfc94d31863fd4eed2a1ac547f57d45df.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/entries" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/77/77ae1d8e7387f6f1f56d130abd8c6eacdfcc2f25.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/rep-cache.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-unlock.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/87/87bc2204e55ef51e6ed8285d1cb36ac1a2e0c576.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/format" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/d5/d59eef2da25b27bff7a768f67ee841c355a42046.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/5d/5d9474c0309b7ca09a182d888f73b37a8fe1362c.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ab/ab32b734e537300732d838a361a782bbd0afbc31.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/6a/6a2e9ea328f244636a1e678c306e19c4aff6681a.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/locks/db.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e2/e282619d849fffb6f101672e526230b6118ee20f.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/19/197ddfe41072f34ec6d845d8e82602548910d5eb.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revprops/0/1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/45/456c4d72df092626fbba4393b21baef4abc871ac.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/Desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/94/94cee422c8963ed4570da8f29535c532be86b4c9.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ca/cac22ff594b3baf6d111f57405f27b485463a68c.svn-base" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/conf/svnserve.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-unlock.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/a7/a78f48fe9f9114f315dc79eff29452e93ffd709a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-commit.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/uuid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ab/ab32b734e537300732d838a361a782bbd0afbc31.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/locks/db.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-hdpi/ic_action_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/45/45bc3e3eaa499a2251729781ab09f8e1951c0fe1.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable/side_nav_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/rep-cache.db-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/locks/db-logs.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/fsfs.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/setting.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/09/09d2af8dd22201dd8d48e5dcfcaed281ff9422c7.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ab/aba713243296f9a589b3a9b9d0a7bc6dbd8ff628.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e7/e748c99b9306441f0038c3d8bab9d145181c18ec.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/57/57876beb715399767392a8379ed639ed39a40acb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-unlock.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/txn-current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ae/ae86c9f2fefeb0a12f9e350975339bc580efd813.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values-v21/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e2/e282619d849fffb6f101672e526230b6118ee20f.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ae/aecb806dfc94d31863fd4eed2a1ac547f57d45df.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/README.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/java/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/bc/bc2b7594113e40680d505a4ea92eb1c3d5e88288.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/71/71da9e5a4833879f009a19fbf0d28423a3ea5d62.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/83/83aeb4741a672572aa7c9a2d874ad405766228fd.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/49/49a62299ac581c4bdccc76d329bd28917452f4cb.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-revprop-change.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/19/197ddfe41072f34ec6d845d8e82602548910d5eb.svn-base" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/eb/eb0d8444690f40994f77137d869726d403cedbc7.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-mdpi/ic_action_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/c9/c938f59c26459571b70359115cbdb1d9f86904c2.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/menu_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/6a/6a27beb6f5c72d671c821fa02b2312a31668dca1.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revs/0/1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/d5/d59eef2da25b27bff7a768f67ee841c355a42046.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/Desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/17/17eb05cdd5ff505cee0d4e64e41f4a195d85226c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/42/429cfcb7c161e5fd60c9f155a6436ba5c78f7af7.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/98/986a473648bef4e3f7bf7852780f17348dafd6f0.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/ec/ece1294c8010b2f785525d42a3aac7a71dd43505.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/87/87bc2204e55ef51e6ed8285d1cb36ac1a2e0c576.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/da/da39a3ee5e6b4b0d3255bfef95601890afd80709.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/format" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/fs-type" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/format" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/Manifest/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/71/71da9e5a4833879f009a19fbf0d28423a3ea5d62.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/menu/activity_menu_drawer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e0/e05d14a5114ab249b4f642f795934980c55165cd.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/7b/7b5753f846a1713cb0cbfd55ab1c8917224c2ac5.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/svn.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/5d/5d9474c0309b7ca09a182d888f73b37a8fe1362c.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/conf/authz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/txn-current-lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/8e/8ee197128d3b2e6316934730e2ee65eef7160f24.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/6a/6a2e9ea328f244636a1e678c306e19c4aff6681a.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-xxhdpi/ic_action_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/format" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revprops/0/1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/6c/6c9d61716c7486e4d5e5458e7473941b9ad64af2.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/09/097bcd5cb7c4d625a8920c500a8424eb331d4ded.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/conf/hooks-env.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/f6/f61e3b7ac96da65e75ad9efe5476a7c3c95ad0cc.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/drawable-xhdpi/ic_action_search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-revprop-change.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/90/9056ef7b9931354522937f8b5719836fab883fba.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/12/128b8855627e8d84af65091c1b2c550d9b535312.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/menu/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/5e/5e3121f070b5792cb29894c72886dcbbc38b5d47.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/41/41dc154e4ffff91ab2b070a4ce0ad15e50571bea.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/48/481f5aed1e1221fe21deda38f170a541fe7d7a59.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/33/332a0395d390d8fb12b18e94afebb56cb54e1245.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/19/19272ebe351cb42c908b360fdb5aef4f8fe0b0d5.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/start-commit.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/conf/passwd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/37/37c1ba5d1252500bd4d4fcc866abce98c3691e05.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/bf/bfb06a0e440ba6197e6a424470cc210f89e26304.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/a2/a27d9a75da389f40e4f310f508315fa62f67cd2e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/64/64a761c1b1296b3f69fc93614102b165505abff4.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/bc/bc2b7594113e40680d505a4ea92eb1c3d5e88288.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/45/456c4d72df092626fbba4393b21baef4abc871ac.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/64/64cc68c33c8443fe609e083ab7a56d204855d176.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/wc.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revs/0/0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/07/07e810e891d89bef67708f1f4f2da09520ec52ca.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/min-unpacked-rev" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/e5/e5fa44f2b31c1fb553b6021e7360d07d5d91ff5e.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/rep-cache.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/77/77ae1d8e7387f6f1f56d130abd8c6eacdfcc2f25.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-lock.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/post-lock.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/d5/d51ac82a61b1e4f74adb6d5b69efc98c80af1365.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/res/layout/menu_header.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/87/87f68e9afdb70efdf4d870b114a516118a470b11.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/1f/1f90a4e4b5763164cc6c45815a099ee788238f0d.svn-base" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/wc.db-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/db/revprops/0/0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/hooks/pre-commit.tmpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/androidkix/.svn/pristine/83/83aeb4741a672572aa7c9a2d874ad405766228fd.svn-base" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
     </list>
     <ignored path="Practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -164,23 +164,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="279">
+              <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="QueryThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/QueryThread.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="44" column="69" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notice_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/notice_list.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notice_List.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Notice_List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FragmentActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/FragmentActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notice_Fragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Notice_Fragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -196,37 +237,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Testactivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Testactivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="304">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1835,6 +1851,8 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Setting_Fragment.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/QueryThread.java" />
       </list>
     </option>
   </component>
@@ -1869,6 +1887,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1909,88 +1928,8 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mipmap" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ic_launcher.png" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ic_search_notice.png" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ic_action_name.png" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2021,21 +1960,52 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practice" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practice" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="F:/Practice1" />
     <property name="device.picker.selection" value="41de4fd6" />
@@ -2348,32 +2318,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5101279" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.4809221" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18336888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18283582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32887402" sideWeight="0.48987207" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2381,7 +2352,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2398,6 +2368,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
@@ -2405,13 +2376,43 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/QueryThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Notice_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Setting_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Testactivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="627">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2419,7 +2420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2435,7 +2435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2443,7 +2442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2451,19 +2449,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="475">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2471,7 +2465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2487,7 +2480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2495,7 +2487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2503,9 +2494,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Setting_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Testactivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Setting_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Testactivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2513,9 +2592,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2523,7 +2600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2539,7 +2615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2547,7 +2622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2555,9 +2629,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2565,18 +2637,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_name.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -2593,31 +2658,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Testactivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_name.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_search_notice.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Testactivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -2630,21 +2716,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/FragmentActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Notice_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/notice_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/QueryThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="602">
+          <caret line="44" column="69" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/owner/practice/Notice_Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
