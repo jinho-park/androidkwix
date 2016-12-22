@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="21"
-    density="xxhdpi"
+    api-level="19"
+    density="hdpi"
     format="8"
-    plugin-version="2.2.2"
-    timestamp="3590234016684"
-    token="4799000915992654591"
-    verifier="COMPATIBLE" >
+    plugin-version="2.2.3"
+    timestamp="31299878561766"
+    token="1495047294567922078"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="150" />
+        duration="644" />
     <task
         name="instant-run-dex"
-        duration="323" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="90" />
+        duration="82" />
     <task
         name="verifier"
-        duration="6" />
+        duration="50" />
 
     <artifact
-        location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="3549600702509"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="31299878561766"
+        verifier="R_CLASS_CHANGE" >
         <artifact
-            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="3590234016684"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

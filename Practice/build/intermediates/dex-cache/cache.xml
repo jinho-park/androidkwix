@@ -2,175 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_e2a4bcb3a5b9c7f450e6ac605d3bc16acc14d2cc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_98e75f0ab5f87a11134cd53a81c65ef96b4f2f59\classes.dex" />
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_a4da9c4d48a825fdf038a8b548aa7cf160321e97.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_af4d86775b94394b5e642e6d1c38ab864e9e78e5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="37a2e34e6684548c642f407c7765677258e9b4e6">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_08687c3213991501c495f2a7ec563b5a0d3fc225\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_350c1382f7dc4b95ae8624e770e57eb3c6de1c61\classes.dex" />
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_8f5bd8c93759704381b18c1953910a250dfd0ecf.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_9f1b9b442dd92640e4e6ddd6b6889fee305618ad\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_3b85553ecdc23638fa193bc0156c7111d572790f\classes.dex" />
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_3c311089f5eb89ff7d25166d9491a0da13ddf96f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\HATA\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_0d45ae1697716072da891cedcfd569c15f555fe1\classes.dex" />
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_81a5785a845b391bba269b7289c0f700d84139ae.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_3f83ba41aa5202d54fc27526865bfb6df3aac04b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="2d337ba95949eb93cdee7b3ce7270a48705911fe">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b7a8f2d1e64469292aa91e9e873988be60ad1e35\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_c439fcd5b8a6cdb4956cafad8da7ee416d00c7ac\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_06e594d21d1bcb19c4f0f71edc1f03f458713f28\classes.dex" />
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_74536d84d319f1f9b05844a6ed325fb8203b6ffb.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_fa65d0c102b6e3ad690ea063cf2212b1619da09f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_cfedc09a80281fb4c53e890f46d08658bc19c350\classes.dex" />
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_71ef5bfde7c595e3f7902a24ef6731aa87ada3e9.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_6f36e83beca3fc365e087a329248460a3ea491e2\classes.dex" />
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_60d9bc35d9eeaa4449fe0bd294d69cd527cd9d66.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="8e4f12cf08e129715d32ee7d5f14dbcab8a9fb45">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f8cc6772d4df728b3f12fe5e64d3c5b43db5f40\classes.dex" />
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_6cb66168bdaa17d708394ea43c94e2b690609540.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\HATA\Desktop\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\Users\HATA\Desktop\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_17bf02efa4828cc57a408ef0e0f4a2a9337d3080\classes.dex" />
+        sha1="d73e87613919e0e0a9f99d84a3775c2a1d4556ea">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e5426c27fd7b9d3b4de394bb81ce6375571d96d0.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="78290eb2bbb3580d06eee3b3534f2841a492615f">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_71d06364f862075159327bbed05bbfc85cd49305\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_72c48eda4174e1b600e798d8036f0e2792b56e7b\classes.dex" />
+        sha1="01868c5ef9df1d50a5d3d90ff6f1aa3f4383de89">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\instant-run_41fe609166617ae575c7af672608dc0270549280.jar" />
     </item>
 
 </items>
