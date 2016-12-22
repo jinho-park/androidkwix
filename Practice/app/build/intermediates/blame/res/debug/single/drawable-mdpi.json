@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
-        "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+        "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_name.png",
+        "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/drawable-mdpi/ic_action_name.png"
     },
     {
-        "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_search_notice.png",
-        "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-mdpi\\ic_search_notice.png"
+        "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_search_notice.png",
+        "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/drawable-mdpi/ic_search_notice.png"
     }
 ]

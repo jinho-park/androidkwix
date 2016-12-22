@@ -7,7 +7,7 @@ import java.net.Socket;
 import java.util.Vector;
 
 public class QueryThread extends Thread {
-    final String IP = "192.168.0.22";
+    final String IP = "192.168.0.103";
     final int PORT = 8000;
     final String TAG = "INTERNET";
     private Socket sock;
@@ -37,12 +37,14 @@ public class QueryThread extends Thread {
             Ois = new ObjectInputStream(sock.getInputStream());
             pw.println(message);
             pw.flush();
-            nl=(Notice_List)Ois.readObject();
-            Log.d(TAG, nl.getTitles());
-            mNoticelist.add(nl);
 
+            while(!(nl=(Notice_List)Ois.readObject()).getTitles().equals("end")) {
+                Log.d(TAG, nl.getTitles());
+                mNoticelist.add(nl);
+            }
             //get data complete and send success message
             mContext.handler.sendEmptyMessage(mContext.THREAD_QUERY_SUCCESS_INFO);
+
         }catch (IOException e){
             Log.d(TAG, e.toString());
         }catch (ClassNotFoundException e){
