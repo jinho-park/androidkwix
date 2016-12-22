@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="x86"
     api-level="21"
-    density="xxhdpi"
+    density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="3590234016684"
-    token="4799000915992654591"
+    timestamp="559466398041956"
+    token="-6934327720849265329"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="150" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="323" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="90" />
+        duration="0" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
-        location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="3549600702509"
+        timestamp="554221109556956"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="3590234016684"
+        timestamp="559466398041956"
         verifier="COMPATIBLE" >
         <artifact
-            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
+            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

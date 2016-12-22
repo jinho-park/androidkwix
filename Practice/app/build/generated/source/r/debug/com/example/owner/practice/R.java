@@ -2472,8 +2472,9 @@ containing a value of this type.
         public static final int design_snackbar_background=0x7f02004d;
         public static final int ic_action_name=0x7f02004e;
         public static final int ic_search_notice=0x7f02004f;
-        public static final int notification_template_icon_bg=0x7f020051;
-        public static final int side_nav_bar=0x7f020050;
+        public static final int icon_kw=0x7f020050;
+        public static final int notification_template_icon_bg=0x7f020052;
+        public static final int side_nav_bar=0x7f020051;
     }
     public static final class id {
         public static final int action0=0x7f0c0081;
@@ -2697,6 +2698,7 @@ containing a value of this type.
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
+        public static final int ic_launcher_icon=0x7f030001;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f060000;
