@@ -4,7 +4,15 @@
         "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
+    },
+    {
         "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
         "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

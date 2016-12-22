@@ -4,7 +4,15 @@
         "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
     },
     {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_notice.png",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_notice.png"
+    },
+    {
         "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_notice.png",
         "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_notice.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_name.png",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
     }
 ]
