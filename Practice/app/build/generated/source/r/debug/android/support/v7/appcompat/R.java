@@ -491,13 +491,21 @@ public final class R {
 		public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f020049;
 		public static final int abc_textfield_search_default_mtrl_alpha = 0x7f02004a;
 		public static final int abc_textfield_search_material = 0x7f02004b;
-		public static final int notification_template_icon_bg = 0x7f020051;
+<<<<<<< HEAD
+		public static final int notification_template_icon_bg = 0x7f020052;
+=======
+		public static final int notification_template_icon_bg = 0x7f020053;
+>>>>>>> refs/remotes/origin/master
 	}
 	public static final class id {
+<<<<<<< HEAD
+		public static final int action0 = 0x7f0c007f;
+=======
 <<<<<<< HEAD
 		public static final int action0 = 0x7f0c0086;
 =======
 		public static final int action0 = 0x7f0c0081;
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 		public static final int action_bar = 0x7f0c005d;
 		public static final int action_bar_activity_content = 0x7f0c0000;
@@ -508,9 +516,13 @@ public final class R {
 		public static final int action_bar_title = 0x7f0c003c;
 		public static final int action_context_bar = 0x7f0c005e;
 <<<<<<< HEAD
+		public static final int action_divider = 0x7f0c0083;
+=======
+<<<<<<< HEAD
 		public static final int action_divider = 0x7f0c008a;
 =======
 		public static final int action_divider = 0x7f0c0085;
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 		public static final int action_menu_divider = 0x7f0c0002;
 		public static final int action_menu_presenter = 0x7f0c0003;
@@ -525,6 +537,11 @@ public final class R {
 		public static final int bottom = 0x7f0c0021;
 		public static final int buttonPanel = 0x7f0c0046;
 <<<<<<< HEAD
+		public static final int cancel_action = 0x7f0c0080;
+		public static final int checkbox = 0x7f0c0054;
+		public static final int chronometer = 0x7f0c0086;
+=======
+<<<<<<< HEAD
 		public static final int cancel_action = 0x7f0c0087;
 		public static final int checkbox = 0x7f0c0054;
 		public static final int chronometer = 0x7f0c008d;
@@ -532,6 +549,7 @@ public final class R {
 		public static final int cancel_action = 0x7f0c0082;
 		public static final int checkbox = 0x7f0c0054;
 		public static final int chronometer = 0x7f0c0088;
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 		public static final int collapseActionView = 0x7f0c0036;
 		public static final int contentPanel = 0x7f0c004c;
@@ -543,9 +561,13 @@ public final class R {
 		public static final int edit_query = 0x7f0c005f;
 		public static final int end = 0x7f0c0025;
 <<<<<<< HEAD
+		public static final int end_padder = 0x7f0c008b;
+=======
+<<<<<<< HEAD
 		public static final int end_padder = 0x7f0c0092;
 =======
 		public static final int end_padder = 0x7f0c008d;
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 		public static final int expand_activities_button = 0x7f0c0040;
 		public static final int expanded_menu = 0x7f0c0053;
@@ -554,6 +576,14 @@ public final class R {
 		public static final int icon = 0x7f0c0044;
 		public static final int ifRoom = 0x7f0c0037;
 		public static final int image = 0x7f0c0041;
+<<<<<<< HEAD
+		public static final int info = 0x7f0c008a;
+		public static final int line1 = 0x7f0c0084;
+		public static final int line3 = 0x7f0c0088;
+		public static final int listMode = 0x7f0c000b;
+		public static final int list_item = 0x7f0c0043;
+		public static final int media_actions = 0x7f0c0082;
+=======
 <<<<<<< HEAD
 		public static final int info = 0x7f0c0091;
 		public static final int line1 = 0x7f0c008b;
@@ -568,6 +598,7 @@ public final class R {
 		public static final int listMode = 0x7f0c000b;
 		public static final int list_item = 0x7f0c0043;
 		public static final int media_actions = 0x7f0c0084;
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 		public static final int middle = 0x7f0c0034;
 		public static final int multiply = 0x7f0c001b;
@@ -603,6 +634,9 @@ public final class R {
 		public static final int src_in = 0x7f0c001e;
 		public static final int src_over = 0x7f0c001f;
 <<<<<<< HEAD
+		public static final int status_bar_latest_event_content = 0x7f0c0081;
+=======
+<<<<<<< HEAD
 		public static final int status_bar_latest_event_content = 0x7f0c0088;
 		public static final int submenuarrow = 0x7f0c0057;
 		public static final int submit_area = 0x7f0c0068;
@@ -613,13 +647,18 @@ public final class R {
 		public static final int time = 0x7f0c008c;
 =======
 		public static final int status_bar_latest_event_content = 0x7f0c0083;
+>>>>>>> refs/remotes/origin/master
 		public static final int submenuarrow = 0x7f0c0057;
 		public static final int submit_area = 0x7f0c0068;
 		public static final int tabMode = 0x7f0c000d;
-		public static final int text = 0x7f0c008b;
-		public static final int text2 = 0x7f0c0089;
+		public static final int text = 0x7f0c0089;
+		public static final int text2 = 0x7f0c0087;
 		public static final int textSpacerNoButtons = 0x7f0c004f;
+<<<<<<< HEAD
+		public static final int time = 0x7f0c0085;
+=======
 		public static final int time = 0x7f0c0087;
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
 		public static final int title = 0x7f0c0045;
 		public static final int title_template = 0x7f0c004a;

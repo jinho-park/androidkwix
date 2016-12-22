@@ -3,13 +3,19 @@
     <item
         android:id="@+id/menu_item_mypage"
         android:title="My page"
-        android:orderInCategory="1"/>
+        android:orderInCategory="1" />
     <item
         android:id="@+id/menu_item_notice"
         android:title="공지사항"
-        android:orderInCategory="2"/>
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_side_nav_notice"/>
     <item
         android:id="@+id/menu_item_setting"
         android:title="setting"
-        android:orderInCategory="100"/>
+<<<<<<< HEAD
+        android:orderInCategory="100" />
+=======
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_side_nav_setting"/>
+>>>>>>> refs/remotes/origin/master
 </menu>

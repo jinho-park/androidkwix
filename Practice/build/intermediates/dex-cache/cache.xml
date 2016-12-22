@@ -4,6 +4,23 @@
 <<<<<<< HEAD
 =======
     <item
+<<<<<<< HEAD
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+=======
+<<<<<<< HEAD
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_a4da9c4d48a825fdf038a8b548aa7cf160321e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+=======
         is-multidex="true"
         jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
         jumboMode="true"
@@ -33,10 +50,18 @@
     <item
         is-multidex="true"
         jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+>>>>>>> refs/remotes/origin/master
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
+<<<<<<< HEAD
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_8f5bd8c93759704381b18c1953910a250dfd0ecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+=======
         <dex dex="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_b85e37741f24a4c201a1c1dbdec30c6d86ffff51/classes.dex" />
     </item>
     <item
@@ -51,10 +76,130 @@
     <item
         is-multidex="true"
         jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+>>>>>>> refs/remotes/origin/master
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+<<<<<<< HEAD
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_3c311089f5eb89ff7d25166d9491a0da13ddf96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+>>>>>>> refs/remotes/origin/master
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+<<<<<<< HEAD
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="81d426a2318362cc06b3eaa6a9a156b37a245013">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e3000029fd5e24f669f19f18c09f8bdb388e1b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_8553d27a672dba092d09317231dd998b9e52d0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_e4278fbbbfa35f24d66d2d5c663562bd8fe4b5c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_81916f73b5138b2381cb476a295dc0948414f538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_49296a14d61aa9a076b5056232c5433a44471319\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_4786f1d419f39091fef8a24b8c72d2632c372c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_92b7d29f4347f59d9c6ddf85d156ec389151cf9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_3e5d48ece3d45e452943d1d61cd0e068609d3158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bc5a04cd8fe9fbdddeb3b2566d93c5bf687259b8">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7ad51f1f0f267aca21929294931e35d44889bf31\classes.dex" />
+=======
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_81a5785a845b391bba269b7289c0f700d84139ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_74536d84d319f1f9b05844a6ed325fb8203b6ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_71ef5bfde7c595e3f7902a24ef6731aa87ada3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+=======
         <dex dex="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_e6ca08a285d96cbfd0b9cbc5ebe8ca5584a8f126/classes.dex" />
     </item>
     <item
@@ -87,11 +232,44 @@
     <item
         is-multidex="true"
         jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+>>>>>>> refs/remotes/origin/master
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="787871951412550519b0222aba3c9df4cea49875">
+<<<<<<< HEAD
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_60d9bc35d9eeaa4449fe0bd294d69cd527cd9d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_6cb66168bdaa17d708394ea43c94e2b690609540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d73e87613919e0e0a9f99d84a3775c2a1d4556ea">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e5426c27fd7b9d3b4de394bb81ce6375571d96d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="01868c5ef9df1d50a5d3d90ff6f1aa3f4383de89">
+        <dex dex="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\instant-run_41fe609166617ae575c7af672608dc0270549280.jar" />
+=======
         <dex dex="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_7d7bc5d82d7d7f75d89b9191bc558039b5b32a98/classes.dex" />
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
     </item>
 
 </items>
