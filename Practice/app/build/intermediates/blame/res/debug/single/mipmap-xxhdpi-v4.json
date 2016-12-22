@@ -2,13 +2,5 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Owner\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\AndroidStudioProjects\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Owner\\AndroidStudioProjects\\Practice\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]
