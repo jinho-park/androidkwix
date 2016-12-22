@@ -9,6 +9,8 @@
         android:targetSdkVersion="24" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
@@ -28,7 +30,11 @@
             </intent-filter>
         </activity>
 
+<<<<<<< HEAD:Practice/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml
+        <receiver android:name="com.example.owner.practice.NotificationActivity" />
+=======
         <receiver android:name="com.example.owner.practice.Testactivity" />
+>>>>>>> refs/remotes/origin/master:Practice/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml
     </application>
 
 </manifest>

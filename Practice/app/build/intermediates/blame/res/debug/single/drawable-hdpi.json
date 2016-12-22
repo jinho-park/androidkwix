@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_notice.png",
         "source": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-hdpi\\ic_search_notice.png"
     },
@@ -14,5 +15,13 @@
     {
         "merged": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_side_nav_notice.png",
         "source": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-hdpi\\ic_side_nav_notice.png"
+=======
+        "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_search_notice.png",
+        "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/drawable-hdpi/ic_search_notice.png"
+    },
+    {
+        "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_name.png",
+        "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/drawable-hdpi/ic_action_name.png"
+>>>>>>> refs/remotes/origin/master
     }
 ]

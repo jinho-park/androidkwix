@@ -23,7 +23,7 @@ public class FragmentActivity extends AppCompatActivity {
         Fragment newfragment = null;
         switch (idx){
             case MYPAGE:
-                //newfragment = new Upload_Fragment();
+                newfragment = new Mypage_Fragment();
                 break;
             case SETTING:
                 newfragment = new Setting_Fragment();

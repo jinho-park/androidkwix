@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #Thu Dec 22 18:54:05 KST 2016
+=======
+#Thu Dec 22 12:54:58 KST 2016
+>>>>>>> refs/remotes/origin/master

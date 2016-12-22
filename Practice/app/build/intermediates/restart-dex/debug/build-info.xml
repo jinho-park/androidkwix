@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="786774375995744"
+    token="-792731546571699975" >
+
+    <task
+        name="javac"
+        duration="1190" />
+=======
     abi="armeabi-v7a,armeabi"
     api-level="19"
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
+<<<<<<< HEAD
     timestamp="31299878561766"
     token="1495047294567922078"
     verifier="R_CLASS_CHANGE" >
@@ -12,11 +25,26 @@
     <task
         name="javac"
         duration="644" />
+=======
+    timestamp="10965934867581"
+    token="-6682975657061628425"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+<<<<<<< HEAD
+        duration="57" />
+=======
+        duration="150" />
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="82" />
     <task
         name="verifier"
@@ -24,14 +52,63 @@
 
     <artifact
         location="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+=======
+<<<<<<< HEAD
+        duration="5" />
+    <task
+        name="verifier"
+        duration="0" />
+=======
+<<<<<<< HEAD
+        duration="264" />
+    <task
+        name="verifier"
+        duration="25" />
+=======
+        duration="90" />
+    <task
+        name="verifier"
+        duration="6" />
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+
+    <artifact
+        location="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/outputs/apk/app-debug.apk"
+>>>>>>> refs/remotes/origin/master
         type="MAIN" />
 
+<<<<<<< HEAD
+    <build timestamp="786774375995744" >
+        <artifact
+            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+=======
     <build
+<<<<<<< HEAD
         timestamp="31299878561766"
         verifier="R_CLASS_CHANGE" >
         <artifact
             location="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+=======
+        timestamp="10965934867581"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+<<<<<<< HEAD
+=======
+    <build
+        timestamp="3590234016684"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+>>>>>>> refs/remotes/origin/master
+    </build>
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 
 </instant-run>

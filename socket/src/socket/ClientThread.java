@@ -29,29 +29,32 @@ public class ClientThread extends Thread{
 			System.out.println(string);
 			try {
 				Connection conn;
-				String sql;
+				String sql = "SELECT * FROM Notice";;
 				conn = DriverManager.getConnection(url,user,pass);
 				System.out.println("success");
 				java.sql.Statement st = null;
 				ResultSet rs = null;
 				st = conn.createStatement();
-				//if(string.equals("test")) {
+				if(string.equals("all")) {
 					sql = "SELECT * FROM Notice";
-				//}
-				//else {
-				//	sql = "SELECT * FROM Notice WHERE id = 1";
-				//}
+				}
+				else if(string.equals("new")) {
+					
+				}
+				else {
+					sql = "SELECT * FROM Notice WHERE id = 1";
+				}
 				rs = st.executeQuery(sql);
 				
 				if(st.execute(sql)) {
 					rs = st.getResultSet();
 				}
-				
+
 				while(rs.next()) {
 					Notice_List data = new Notice_List();
 					String str = rs.getString("Category");
 					if(str.equals("")) {
-						data.setCat("[æ¯¿Ω]");
+						data.setCat("[ÏóÜÏùå]");
 					}
 					else {
 						data.setCat(str);
@@ -62,10 +65,14 @@ public class ClientThread extends Thread{
 					data.setDate(str);
 					str = rs.getString("Hyperlink");
 					data.setUrls(str);
-					
 					oos.writeObject(data);
 					oos.flush();
 				}
+				System.out.println("jinsejin");
+				Notice_List data = new Notice_List();
+				data.setTitle("end");
+				oos.writeObject(data);
+				oos.flush();
 				rs.close();
 				st.close();
 				conn.close();
