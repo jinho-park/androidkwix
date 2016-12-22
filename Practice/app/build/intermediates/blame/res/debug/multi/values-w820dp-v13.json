@@ -1,6 +1,14 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+=======
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+=======
+        "outputFile": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
         "map": [
             {
                 "to": {
@@ -11,7 +19,15 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/values-w820dp/dimens.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+=======
+                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

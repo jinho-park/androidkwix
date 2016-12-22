@@ -372,7 +372,15 @@
                     "endOffset": 2200
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-ne-rNP/values-ne-rNP.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+=======
+                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

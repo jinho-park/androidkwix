@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
+<<<<<<< HEAD
+=======
     <item
         is-multidex="true"
         jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
@@ -93,3 +95,4 @@
     </item>
 
 </items>
+>>>>>>> refs/remotes/origin/master

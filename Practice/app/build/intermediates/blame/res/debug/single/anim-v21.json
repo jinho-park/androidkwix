@@ -4,11 +4,29 @@
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/anim-v21/design_appbar_state_list_animator.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+=======
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+=======
+        "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
     }
 ]
