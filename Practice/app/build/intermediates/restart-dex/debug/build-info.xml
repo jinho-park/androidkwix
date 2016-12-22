@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
     density="xxxhdpi"
@@ -10,24 +11,61 @@
     <task
         name="javac"
         duration="1190" />
+=======
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="3590234016684"
+    token="4799000915992654591"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="150" />
+>>>>>>> refs/remotes/origin/master
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="323" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="264" />
     <task
         name="verifier"
         duration="25" />
+=======
+        duration="90" />
+    <task
+        name="verifier"
+        duration="6" />
+>>>>>>> refs/remotes/origin/master
 
     <artifact
-        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
+<<<<<<< HEAD
     <build timestamp="786774375995744" >
         <artifact
             location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+=======
+    <build
+        timestamp="3549600702509"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="3590234016684"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\HATA\kwix_git\androidkwix\Practice\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+>>>>>>> refs/remotes/origin/master
     </build>
 
 </instant-run>
