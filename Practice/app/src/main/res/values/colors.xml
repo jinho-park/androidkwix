@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+=======
     <color name="colorPrimary">#ff6f65</color>
     <color name="colorPrimaryDark">#303F9F</color>
+>>>>>>> refs/remotes/origin/master
     <color name="colorAccent">#ff6f65</color>
 </resources>

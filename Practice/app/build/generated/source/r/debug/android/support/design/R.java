@@ -620,7 +620,11 @@ public final class R {
 		public static final int abc_textfield_search_material = 0x7f02004b;
 		public static final int design_fab_background = 0x7f02004c;
 		public static final int design_snackbar_background = 0x7f02004d;
+<<<<<<< HEAD
+		public static final int notification_template_icon_bg = 0x7f020052;
+=======
 		public static final int notification_template_icon_bg = 0x7f020053;
+>>>>>>> refs/remotes/origin/master
 	}
 	public static final class id {
 <<<<<<< HEAD

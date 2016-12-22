@@ -1,6 +1,9 @@
 [
     {
 <<<<<<< HEAD
+        "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -12,6 +15,7 @@
         "outputFile": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
         "map": [
             {
@@ -25,6 +29,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -36,6 +43,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
@@ -58,6 +66,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -69,6 +80,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
@@ -91,6 +103,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -102,6 +117,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
@@ -124,6 +140,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -135,6 +154,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
@@ -157,6 +177,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -168,6 +191,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
@@ -190,6 +214,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -201,6 +228,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
@@ -223,6 +251,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -234,6 +265,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 22,
@@ -256,6 +288,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -267,6 +302,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 26,
@@ -289,6 +325,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -300,6 +339,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 29,
@@ -322,6 +362,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -333,6 +376,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 32,
@@ -355,6 +399,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -366,6 +413,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 35,
@@ -388,6 +436,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -399,6 +450,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 39,
@@ -421,6 +473,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -432,6 +487,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 42,
@@ -454,6 +510,9 @@
                 },
                 "from": {
 <<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
+=======
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 =======
 <<<<<<< HEAD
@@ -465,6 +524,7 @@
                     "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v17\\values-v17.xml",
 >>>>>>> refs/remotes/origin/master
 >>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 46,

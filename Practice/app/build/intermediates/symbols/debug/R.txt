@@ -608,6 +608,11 @@ int drawable design_snackbar_background 0x7f02004d
 int drawable ic_action_name 0x7f02004e
 int drawable ic_search_notice 0x7f02004f
 <<<<<<< HEAD
+int drawable icon_kw 0x7f020050
+int drawable notification_template_icon_bg 0x7f020052
+int drawable side_nav_bar 0x7f020051
+=======
+<<<<<<< HEAD
 int drawable ic_side_nav_notice 0x7f020050
 int drawable ic_side_nav_setting 0x7f020051
 int drawable kwang3 0x7f020052
@@ -619,6 +624,7 @@ int drawable side_nav_bar 0x7f020050
 <<<<<<< HEAD
 int id action0 0x7f0c0086
 =======
+>>>>>>> refs/remotes/origin/master
 int id action0 0x7f0c0081
 >>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
@@ -959,6 +965,7 @@ int layout support_simple_spinner_dropdown_item 0x7f040039
 int menu activity_menu_drawer 0x7f0d0000
 int menu main 0x7f0d0001
 int mipmap ic_launcher 0x7f030000
+int mipmap ic_launcher_icon 0x7f030001
 int string abc_action_bar_home_description 0x7f060000
 int string abc_action_bar_home_description_format 0x7f060001
 int string abc_action_bar_home_subtitle_description_format 0x7f060002
