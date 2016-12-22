@@ -1,6 +1,14 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+        "outputFile": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -11,7 +19,15 @@
                     "endOffset": 119
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +46,15 @@
                     "endOffset": 188
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +73,15 @@
                     "endOffset": 258
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +100,15 @@
                     "endOffset": 332
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +127,15 @@
                     "endOffset": 408
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +154,15 @@
                     "endOffset": 467
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +181,15 @@
                     "endOffset": 538
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +208,15 @@
                     "endOffset": 606
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +235,15 @@
                     "endOffset": 666
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -182,7 +262,15 @@
                     "endOffset": 736
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -201,7 +289,15 @@
                     "endOffset": 807
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -220,7 +316,15 @@
                     "endOffset": 879
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -239,7 +343,15 @@
                     "endOffset": 937
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -258,7 +370,15 @@
                     "endOffset": 995
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -277,7 +397,15 @@
                     "endOffset": 1101
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -296,7 +424,15 @@
                     "endOffset": 1165
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -315,7 +451,15 @@
                     "endOffset": 1228
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -335,7 +479,23 @@
                     "endOffset": 1410
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,

@@ -11,6 +11,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import java.util.List;
@@ -21,12 +22,14 @@ public class Notice_Fragment extends Fragment {
     private RecyclerView mNoticeRecyclerView;
     private NoticeAdapter mAdapter;
     static QueryThread queryThread;
+    DBManager dbManager;
     Vector<Notice_List> notice_lists;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstance){
         View view = inflater.inflate(R.layout.notice, container, false);
         notice_lists = new Vector<Notice_List>();
+        dbManager = new DBManager(getContext(), "Mynotice.db", null , 1);
         queryThread = new QueryThread("all", this, notice_lists);
         queryThread.start();
         mNoticeRecyclerView = (RecyclerView)view.findViewById(R.id.notice_fragment_view);
@@ -55,16 +58,30 @@ public class Notice_Fragment extends Fragment {
     private class NoticeHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
         private Notice_List mNotice;
         private TextView mNoticetitle;
+        private TextView mCategory;
+        private TextView mDate;
+        private ImageButton button;
 
         public NoticeHolder(View view){
             super(view);
             view.setOnClickListener(this);
             mNoticetitle = (TextView)view.findViewById(R.id.notice_id);
+            mCategory = (TextView)view.findViewById(R.id.category);
+            mDate = (TextView)view.findViewById(R.id.date);
+            button = (ImageButton)view.findViewById(R.id.imageButton);
         }
 
         public void bindnotice(Notice_List list){
             mNotice = list;
             mNoticetitle.setText(mNotice.getTitles());
+            mCategory.setText(mNotice.getCats());
+            mDate.setText(mNotice.getDates());
+            button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    dbManager.insert(mNotice.getCats(), mNotice.getTitles(), mNotice.getDates(), mNotice.getUrls());
+                }
+            });
         }
 
         @Override

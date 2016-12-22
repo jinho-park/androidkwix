@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\src\debug\jniLibs"/></dataSet></merger>
+=======
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main"><source path="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/debug/jniLibs"/></dataSet></merger>
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
