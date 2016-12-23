@@ -29,11 +29,7 @@
             </intent-filter>
         </activity>
 
-<<<<<<< HEAD
         <receiver android:name="com.example.owner.practice.NotificationActivity" />
-=======
-        <receiver android:name="com.example.owner.practice.Testactivity" />
->>>>>>> refs/remotes/origin/master
     </application>
 
 </manifest>

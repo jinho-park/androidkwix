@@ -7,11 +7,7 @@ import java.net.Socket;
 import java.util.Vector;
 
 public class QueryThread extends Thread {
-<<<<<<< HEAD
     final String IP = "192.168.0.103";
-=======
-    final String IP = "192.168.0.101";
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
     final int PORT = 8000;
     final String TAG = "INTERNET";
     private Socket sock;
@@ -43,18 +39,12 @@ public class QueryThread extends Thread {
             Ois = new ObjectInputStream(sock.getInputStream());
             pw.println(message);
             pw.flush();
-<<<<<<< HEAD
 
             while(!(nl=(Notice_List)Ois.readObject()).getTitles().equals("end")) {
                 Log.d(TAG, nl.getTitles());
                 mNoticelist.add(nl);
             }
-            //get data complete and send success message
-            mContext.handler.sendEmptyMessage(mContext.THREAD_QUERY_SUCCESS_INFO);
 
-=======
-            nl=(Notice_List)Ois.readObject();
-            Log.d(TAG, nl.getTitles());
             if(message.equals("new")){
                 Log.d(TAG, "Alarm");
                 context.handler.sendEmptyMessage(context.QUERY_THREAD_OK);
@@ -64,7 +54,7 @@ public class QueryThread extends Thread {
                 //get data complete and send success message
                 mContext.handler.sendEmptyMessage(mContext.THREAD_QUERY_SUCCESS_INFO);
             }
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+
         }catch (IOException e){
             Log.d(TAG, e.toString());
         }catch (ClassNotFoundException e){

@@ -1,22 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-        "outputFile": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-        "outputFile": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-        "outputFile": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
-=======
-        "outputFile": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
         "map": [
             {
                 "to": {
@@ -27,23 +11,7 @@
                     "endOffset": 162
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -62,23 +30,7 @@
                     "endOffset": 270
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -97,23 +49,7 @@
                     "endOffset": 393
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -132,23 +68,7 @@
                     "endOffset": 505
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -167,23 +87,7 @@
                     "endOffset": 613
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -202,23 +106,7 @@
                     "endOffset": 698
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -237,23 +125,7 @@
                     "endOffset": 800
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -272,23 +144,7 @@
                     "endOffset": 926
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -307,23 +163,7 @@
                     "endOffset": 1010
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -342,23 +182,7 @@
                     "endOffset": 1091
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -377,23 +201,7 @@
                     "endOffset": 1173
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -412,23 +220,7 @@
                     "endOffset": 1280
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -447,23 +239,7 @@
                     "endOffset": 1389
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -482,23 +258,7 @@
                     "endOffset": 1488
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -517,23 +277,7 @@
                     "endOffset": 1596
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -552,23 +296,7 @@
                     "endOffset": 1699
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -587,23 +315,7 @@
                     "endOffset": 1806
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -622,23 +334,7 @@
                     "endOffset": 1928
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -657,23 +353,7 @@
                     "endOffset": 2028
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -692,23 +372,7 @@
                     "endOffset": 2129
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-gl-rES/values-gl-rES.xml",
-=======
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-=======
-                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

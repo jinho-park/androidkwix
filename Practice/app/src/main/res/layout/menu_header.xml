@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-<<<<<<< HEAD
     android:layout_height="wrap_content"
     android:background="#FF6F65"
     android:gravity="start"
@@ -35,18 +34,5 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
-=======
-    android:layout_height="160dp"
-    android:background="@drawable/kwang3"
-    android:gravity="bottom"
-    android:orientation="vertical"
-    android:paddingBottom="16dp"
-    android:paddingLeft="16dp"
-    android:paddingRight="16dp"
-    android:paddingTop="16dp"
-    android:theme="@style/ThemeOverlay.AppCompat.Dark"
-    android:weightSum="1">
-
->>>>>>> refs/remotes/origin/master
 
 </LinearLayout>
