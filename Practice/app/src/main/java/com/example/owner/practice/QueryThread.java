@@ -28,6 +28,7 @@ public class QueryThread extends Thread {
     public QueryThread(String m , NotificationActivity mContext){
         this.message = m;
         this.context = mContext;
+        mNoticelist = new Vector<Notice_List>();
     }
 
     @Override
@@ -49,12 +50,14 @@ public class QueryThread extends Thread {
                 Log.d(TAG, "Alarm");
                 context.handler.sendEmptyMessage(context.QUERY_THREAD_OK);
             }else {
-                mNoticelist.add(nl);
 
                 //get data complete and send success message
                 mContext.handler.sendEmptyMessage(mContext.THREAD_QUERY_SUCCESS_INFO);
             }
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/master
         }catch (IOException e){
             Log.d(TAG, e.toString());
         }catch (ClassNotFoundException e){

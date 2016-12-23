@@ -12,8 +12,14 @@
         android:title="공지사항" />
     <item
         android:id="@+id/menu_item_setting"
+<<<<<<< HEAD
         android:icon="@drawable/ic_side_nav_setting1"
         android:orderInCategory="100"
         android:title="setting" />
 
+=======
+        android:title="setting"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_side_nav_setting"/>
+>>>>>>> refs/remotes/origin/master
 </menu>
