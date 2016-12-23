@@ -18,11 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
-        <receiver android:name="NotificationActivity" /><![CDATA[
-=======
-        >>>>>>> refs/remotes/origin/master
-    ]]>
+        <receiver android:name="NotificationActivity" />
     </application>
 
     <uses-permission android:name="android.permission.INTERNET"/>
