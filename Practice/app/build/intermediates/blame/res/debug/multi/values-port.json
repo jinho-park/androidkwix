@@ -1,0 +1,50 @@
+[
+    {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+=======
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+=======
+        "outputFile": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-port\\values-port.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-port\\values-port.xml",
+=======
+<<<<<<< HEAD
+                    "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values-port/values-port.xml",
+=======
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-port\\values-port.xml",
+=======
+                    "file": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-port\\values-port.xml",
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
