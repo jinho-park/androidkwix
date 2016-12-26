@@ -2471,12 +2471,26 @@ containing a value of this type.
         public static final int design_fab_background=0x7f02004c;
         public static final int design_snackbar_background=0x7f02004d;
         public static final int ic_action_name=0x7f02004e;
+<<<<<<< HEAD
         public static final int ic_search_notice=0x7f02004f;
         public static final int ic_side_nav_notice=0x7f020050;
         public static final int ic_side_nav_setting=0x7f020051;
         public static final int icon_kw=0x7f020052;
         public static final int kwang3=0x7f020053;
         public static final int notification_template_icon_bg=0x7f020054;
+=======
+        public static final int ic_notice_list_btn_on=0x7f02004f;
+        public static final int ic_search_notice=0x7f020050;
+        public static final int ic_side_nav_mypage=0x7f020051;
+        public static final int ic_side_nav_mypage1=0x7f020052;
+        public static final int ic_side_nav_notice1=0x7f020053;
+        public static final int ic_side_nav_notice2=0x7f020054;
+        public static final int ic_side_nav_notice3=0x7f020055;
+        public static final int ic_side_nav_setting1=0x7f020056;
+        public static final int icon_kw=0x7f020057;
+        public static final int kwang3=0x7f020058;
+        public static final int notification_template_icon_bg=0x7f020059;
+>>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
     }
     public static final class id {
         public static final int action0=0x7f0c0086;
@@ -2520,7 +2534,11 @@ containing a value of this type.
         public static final int contentPanel=0x7f0c004c;
         public static final int custom=0x7f0c0052;
         public static final int customPanel=0x7f0c0051;
+<<<<<<< HEAD
         public static final int date=0x7f0c0084;
+=======
+        public static final int date=0x7f0c0083;
+>>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
         public static final int decor_content_parent=0x7f0c005b;
         public static final int default_activity_button=0x7f0c0042;
         public static final int design_bottom_sheet=0x7f0c006f;
@@ -2571,7 +2589,7 @@ containing a value of this type.
         public static final int normal=0x7f0c000c;
         public static final int notice_date=0x7f0c0079;
         public static final int notice_fragment_view=0x7f0c0081;
-        public static final int notice_id=0x7f0c0083;
+        public static final int notice_id=0x7f0c0084;
         public static final int notice_title=0x7f0c0078;
         public static final int parallax=0x7f0c002b;
         public static final int parentPanel=0x7f0c0048;

@@ -6,6 +6,5 @@
         app:showAsAction="ifRoom"
         android:icon="@drawable/ic_search_notice"
         app:actionViewClass="android.support.v7.widget.SearchView"
-        android:title="action_search"
-        />
+        android:title="action_search" />
 </menu>
