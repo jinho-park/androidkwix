@@ -37,17 +37,27 @@ public class ClientThread extends Thread{
 				st = conn.createStatement();
 				if(string.equals("all")) {
 					sql = "SELECT * FROM Notice";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
 				}
 				else if(string.equals("new")) {
+					sql = "SELECT * FROM Notice";
+					rs = st.executeQuery(sql);
 					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
 				}
 				else {
 					sql = "SELECT * FROM Notice WHERE id = 1";
-				}
-				rs = st.executeQuery(sql);
-				
-				if(st.execute(sql)) {
-					rs = st.getResultSet();
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
 				}
 
 				while(rs.next()) {

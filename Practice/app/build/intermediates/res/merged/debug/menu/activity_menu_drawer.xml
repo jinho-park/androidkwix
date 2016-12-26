@@ -12,10 +12,6 @@
     <item
         android:id="@+id/menu_item_setting"
         android:title="setting"
-<<<<<<< HEAD
-        android:orderInCategory="100" />
-=======
         android:orderInCategory="100"
         android:icon="@drawable/ic_side_nav_setting"/>
->>>>>>> refs/remotes/origin/master
 </menu>

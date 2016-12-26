@@ -1,46 +1,10 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
-        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
-=======
-<<<<<<< HEAD
-        "merged": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
-        "source": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
-=======
-<<<<<<< HEAD
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/menu/main.xml"
     },
     {
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/menu/activity_menu_drawer.xml",
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/menu/activity_menu_drawer.xml"
-=======
-<<<<<<< HEAD
-        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
-        "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\menu\\main.xml"
-=======
-        "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
-        "source": "D:\\HATA\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
->>>>>>> refs/remotes/origin/master
->>>>>>> 582e594002adf1f123f4f98fdcf5ca68e162dc81
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
     }
 ]
