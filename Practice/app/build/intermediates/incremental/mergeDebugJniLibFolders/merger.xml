@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="C:\Users\Owner\Documents\GitHub\Practice\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Owner\Documents\GitHub\Practice\app\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b

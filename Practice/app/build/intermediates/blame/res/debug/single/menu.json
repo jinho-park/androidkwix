@@ -1,10 +1,19 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
         "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\menu\\main.xml"
+=======
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
+>>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
     }
 ]

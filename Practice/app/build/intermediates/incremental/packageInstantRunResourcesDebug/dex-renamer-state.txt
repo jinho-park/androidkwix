@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-#Thu Dec 22 18:58:00 KST 2016
-=======
-<<<<<<< HEAD
-#Thu Dec 22 18:54:05 KST 2016
-=======
-#Thu Dec 22 12:54:58 KST 2016
->>>>>>> refs/remotes/origin/master
->>>>>>> refs/remotes/origin/master
+#Fri Dec 23 16:20:56 KST 2016
