@@ -1,14 +1,17 @@
 package com.example.owner.practice;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
-import java.util.Vector;
+import static android.support.v4.app.ActivityCompat.startActivity;
 
 /**
  * Created by Owner on 2016-12-22.
@@ -30,7 +33,17 @@ public class Mypage_Fragment extends Fragment{
         listViewAdapter = new ListViewAdapter(dbManager.getData());
         //if(listViewAdapter == null) Log.d(TAG, "adapter is null");
         listView.setAdapter(listViewAdapter);
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Notice_List item = (Notice_List)adapterView.getAdapter().getItem(i);
+                String url = item.getUrls();
+                Log.d("LISTVIEW", "Click " + url);
 
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+                startActivity(intent);
+            }
+        });
         return view;
     }
 }

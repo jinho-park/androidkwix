@@ -4,23 +4,22 @@ import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
+
+import static java.security.AccessController.getContext;
 
 public class MainActivity extends FragmentActivity implements NavigationView.OnNavigationItemSelectedListener{
     private static AlarmManager am;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,25 +27,35 @@ public class MainActivity extends FragmentActivity implements NavigationView.OnN
         am = (AlarmManager)getSystemService(Context.ALARM_SERVICE);
         Intent intent = new Intent(MainActivity.this, NotificationActivity.class);
         PendingIntent sender = PendingIntent.getBroadcast(MainActivity.this, 0, intent, 0);
-
+        SharedPreferences prefs = this.getSharedPreferences("pref",MODE_PRIVATE);
+        boolean switchState = prefs.getBoolean("check", false);
+        if( switchState == false ) {
+            Log.d("test","switch");
+            SharedPreferences.Editor editor = prefs.edit();
+            editor.putBoolean("alarm", true);
+            editor.putBoolean("keyword", true);
+            editor.putBoolean("check", true);
+            editor.commit();
+        }
         Calendar calendar = Calendar.getInstance();
-            int year = calendar.get(Calendar.YEAR);//올해
-            int month = calendar.get(Calendar.MONTH);//이번달(10월이면 9를 리턴받는다. calendar는 0월부터 11월까지로 12개의월을 사용)
-            int day = calendar.get(Calendar.DAY_OF_MONTH);//오늘날짜
+        int year = calendar.get(Calendar.YEAR);//올해
+        int month = calendar.get(Calendar.MONTH);//이번달(10월이면 9를 리턴받는다. calendar는 0월부터 11월까지로 12개의월을 사용)
+        int day = calendar.get(Calendar.DAY_OF_MONTH);//오늘날짜
+        int hour = calendar.get(Calendar.HOUR_OF_DAY);
+        int minute = calendar.get(Calendar.MINUTE);
+        calendar.set(year, month, day, hour, minute);
+        am.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(), 60*10*60 * 1000, sender);
+        //getSupportActionBar().hide();
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
 
-            calendar.set(year, month, day, 12, 50);
-            am.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(), 10*60 * 1000, sender);
-            //getSupportActionBar().hide();
-            Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-            setSupportActionBar(toolbar);
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.activity_main);
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawer, toolbar, R.string.app_name, R.string.app_name);
+        drawer.setDrawerListener(toggle);
+        toggle.syncState();
 
-            DrawerLayout drawer = (DrawerLayout) findViewById(R.id.activity_main);
-            ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawer, toolbar, R.string.app_name, R.string.app_name);
-            drawer.setDrawerListener(toggle);
-            toggle.syncState();
-
-            NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
-            navigationView.setNavigationItemSelectedListener(this);
+        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+        navigationView.setNavigationItemSelectedListener(this);
     }
 
     @Override

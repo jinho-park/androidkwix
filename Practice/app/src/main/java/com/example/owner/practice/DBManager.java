@@ -16,7 +16,7 @@ public class DBManager extends SQLiteOpenHelper {
     final String TAG = "DATABASE";
     private ArrayList<Notice_List> list;
 
-    public DBManager(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {
+    public DBManager(Context context, String name, CursorFactory factory, int version) {
         super(context, name, factory, version);
     }
 
@@ -59,10 +59,10 @@ public class DBManager extends SQLiteOpenHelper {
         Cursor cursor = db.rawQuery("select * from MY_NOTICE_LIST", null);
         while(cursor.moveToNext()) {
             Notice_List item = new Notice_List();
-            item.setCat(cursor.getString(0));
-            item.setTitle(cursor.getString(1));
-            item.setDate(cursor.getString(2));
-            item.setUrls(cursor.getString(3));
+            item.setCat(cursor.getString(1));
+            item.setTitle(cursor.getString(2));
+            item.setDate(cursor.getString(3));
+            item.setUrls(cursor.getString(4));
             list.add(item);
         }
         Log.d(TAG, "get Data size" + list.size());

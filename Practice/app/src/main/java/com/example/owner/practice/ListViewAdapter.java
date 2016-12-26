@@ -1,18 +1,25 @@
 package com.example.owner.practice;
 
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.ImageButton;
 import android.widget.TextView;
+
 import java.util.ArrayList;
+
+import static android.support.v4.app.ActivityCompat.startActivity;
 
 /**
  * Created by Owner on 2016-12-22.
  */
-public class ListViewAdapter extends BaseAdapter {
+public class ListViewAdapter extends BaseAdapter{
     private ArrayList<Notice_List> list= new ArrayList<Notice_List>();
+    private String url;
 
     public ListViewAdapter(ArrayList<Notice_List> list){
         this.list = list;
@@ -41,21 +48,31 @@ public class ListViewAdapter extends BaseAdapter {
     public View getView(int i, View view, ViewGroup viewGroup) {
         final int pos = i;
         final Context context = viewGroup.getContext();
+        final DBManager dbManager = new DBManager(context, "Mynotice.db", null , 1);
 
         if(view == null){
             LayoutInflater layoutInflater = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             view = layoutInflater.inflate(R.layout.listview_item, viewGroup, false);
         }
 
-        TextView category = (TextView)view.findViewById(R.id.cate);
-        TextView title = (TextView)view.findViewById(R.id.notice_title);
-        TextView date = (TextView)view.findViewById(R.id.notice_date);
+        final TextView category = (TextView)view.findViewById(R.id.cate);
+        final TextView title = (TextView)view.findViewById(R.id.notice_title);
+        final TextView date = (TextView)view.findViewById(R.id.notice_date);
+        ImageButton delete = (ImageButton)view.findViewById(R.id.delete);
 
-        Notice_List item = list.get(i);
+        final Notice_List item = list.get(i);
 
         category.setText(item.getCats());
         title.setText(item.getTitles());
         date.setText(item.getDates());
+        delete.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                dbManager.delete(item.getCats(), item.getTitles(), item.getDates(), item.getUrls());
+                list.remove(item);
+                notifyDataSetChanged();
+            }
+        });
 
         return view;
     }
