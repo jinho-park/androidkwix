@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21\\values-ldltr-v21.xml",
+=======
         "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+>>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 163
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+=======
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+>>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

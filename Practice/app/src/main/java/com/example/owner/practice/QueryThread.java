@@ -1,7 +1,6 @@
 package com.example.owner.practice;
 
 import android.util.Log;
-
 import java.io.*;
 import java.net.Socket;
 import java.util.Vector;

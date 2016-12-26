@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items version="2" >
 
+<<<<<<< HEAD
+=======
     <item
         is-multidex="true"
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
@@ -93,3 +95,4 @@
     </item>
 
 </items>
+>>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
