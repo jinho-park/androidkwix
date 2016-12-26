@@ -7,12 +7,15 @@
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:baselineAligned="true"
         android:orientation="horizontal">
 
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:layout_marginTop="10dip"
+            android:orientation="vertical"
+            android:paddingTop="10dip">
 
             <TextView
                 android:id="@+id/category"
@@ -20,7 +23,7 @@
                 android:layout_height="wrap_content"
                 android:text="분류"
                 android:textColor="#FF707FDD"
-                android:textSize="10dp" />
+                android:textSize="12dp" />
 
             <TextView
                 android:id="@+id/date"
@@ -28,19 +31,24 @@
                 android:layout_height="wrap_content"
                 android:text="11/11"
                 android:textSize="10dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="    " />
 
         </LinearLayout>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=" " />
-
+            android:text="   " />
         <TextView
             android:id="@+id/notice_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
             android:layout_weight="4"
+            android:paddingTop="10dip"
             android:text="하이이이이"
             android:textSize="12dp"
             android:textStyle="bold" />
@@ -48,10 +56,13 @@
         <ImageButton
             android:id="@+id/imageButton"
             android:layout_width="wrap_content"
-            android:layout_height="36dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:background="@android:color/transparent"
+            android:paddingTop="10dip"
             android:src="@drawable/ic_notice_list_btn_on" />
-
     </LinearLayout>
+
 
     <ImageView
         android:layout_width="match_parent"
