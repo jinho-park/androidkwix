@@ -12,14 +12,7 @@
         android:title="공지사항" />
     <item
         android:id="@+id/menu_item_setting"
-<<<<<<< HEAD
-        android:title="setting"
-        android:orderInCategory="100"
-        android:icon="@drawable/ic_side_nav_setting"/>
-=======
         android:icon="@drawable/ic_side_nav_setting1"
         android:orderInCategory="100"
         android:title="setting" />
-
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
 </menu>

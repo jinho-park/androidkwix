@@ -9,11 +9,11 @@
     tools:context="Setting_Fragment">
 
     <Switch
-          android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:text="새소식 받기"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="새소식 받기"
         android:typeface="serif"
-          android:id="@+id/setting_switch_newnotice" />
+        android:id="@+id/setting_switch_newnotice" />
 
     <Switch
         android:layout_width="match_parent"

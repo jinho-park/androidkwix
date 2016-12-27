@@ -1,11 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
-=======
-        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
     }
 ]

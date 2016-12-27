@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
-=======
-        "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
         "map": [
             {
                 "to": {
@@ -15,17 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/values-w820dp/dimens.xml",
-=======
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 291,
                         "endColumn": 57,
-                        "endOffset": 348
+                        "endOffset": 344
                     }
                 }
             }

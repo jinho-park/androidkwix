@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-#Fri Dec 23 11:38:18 KST 2016
-=======
-#Fri Dec 23 16:20:56 KST 2016
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
+#Mon Dec 26 12:05:25 KST 2016

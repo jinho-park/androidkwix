@@ -51,8 +51,88 @@ public class ClientThread extends Thread{
 						rs = st.getResultSet();
 					}
 				}
+				else if(string.equals("nor")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[일반]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("stu")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[학생]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("hak")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[학사]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("vol")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[봉사]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("jan")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[등록/장학]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("ent")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[입학]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("sul")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[시설]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("mil")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[병무]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.equals("out")) {
+					sql = "SELECT * FROM Notice WHERE Category = \"[외부]\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
+				else if(string.substring(0,3).equals("sch")) {
+					sql = "SELECT * FROM Notice WHERE Title LIKE \"%"+string.substring(4,string.length())+"%\"";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+				}
 				else {
-					sql = "SELECT * FROM Notice WHERE id = 1";
+					sql = "SELECT * FROM Notice WHERE Id = 1";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
