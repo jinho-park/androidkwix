@@ -6,9 +6,12 @@ import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
+
+import static android.content.Context.MODE_PRIVATE;
 
 /**
  * Created by Owner on 2016-12-22.
@@ -19,20 +22,24 @@ public class NotificationActivity extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        Log.d("SERVICE", "Thread start");
-        mContext=context;
-        QueryThread thread = new QueryThread("new", this);
-        thread.start();
+        mContext = context;
+        SharedPreferences prefs = context.getSharedPreferences("pref", MODE_PRIVATE);
+        boolean switchState = prefs.getBoolean("alarm", false);
+        if (switchState == true) {
+            Log.d("SERVICE", "Thread start");
+            QueryThread thread = new QueryThread("new", this);
+            thread.start();
+        }
     }
 
-    public Handler handler = new Handler(){
+    public Handler handler = new Handler() {
         @Override
-        public void handleMessage(Message msg){
+        public void handleMessage(Message msg) {
             super.handleMessage(msg);
-            switch (msg.what){
+            switch (msg.what) {
                 case QUERY_THREAD_OK:
                     Log.d("SERVICE", "Message ok");
-                    NotificationManager notifier = (NotificationManager)mContext.getSystemService(Context.NOTIFICATION_SERVICE);
+                    NotificationManager notifier = (NotificationManager) mContext.getSystemService(Context.NOTIFICATION_SERVICE);
                     Intent intent = new Intent(mContext, MainActivity.class);
                     PendingIntent pender = PendingIntent.getActivity(mContext, 0, intent, 0);
                     Notification.Builder builder = new Notification.Builder(mContext);

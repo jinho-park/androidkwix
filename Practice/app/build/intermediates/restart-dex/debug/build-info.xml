@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
     abi="armeabi-v7a,armeabi"
+=======
+>>>>>>> 8a1026cabe44338bf74b9898622f71450b47fde0
     api-level="21"
     density="xxhdpi"
     format="8"
+<<<<<<< HEAD
     plugin-version="2.2.3"
     timestamp="6877272116890"
     token="-6682975657061628425"
+=======
+    plugin-version="2.2.0"
+    timestamp="904778788057003"
+    token="-6934327720849265329"
+>>>>>>> 8a1026cabe44338bf74b9898622f71450b47fde0
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
+<<<<<<< HEAD
         duration="915" />
+=======
+        duration="1512" />
+>>>>>>> 8a1026cabe44338bf74b9898622f71450b47fde0
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="363" />
     <task
         name="verifier"
@@ -28,6 +42,19 @@
 
     <build
         timestamp="6877272116890"
+=======
+        duration="220" />
+    <task
+        name="verifier"
+        duration="72" />
+
+    <artifact
+        location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="904778788057003"
+>>>>>>> 8a1026cabe44338bf74b9898622f71450b47fde0
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/outputs/apk/app-debug.apk"

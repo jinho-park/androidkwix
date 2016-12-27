@@ -28,6 +28,7 @@
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/color/abc_tint_edittext.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/color/abc_tint_seek_thumb.xml"
     },
@@ -38,6 +39,18 @@
     {
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/color/switch_thumb_material_dark.xml"
+=======
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\color\\abc_secondary_text_material_light.xml"
+>>>>>>> 8a1026cabe44338bf74b9898622f71450b47fde0
     },
     {
         "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
