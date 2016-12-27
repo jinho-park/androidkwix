@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dip"
             android:orientation="vertical"
+            android:layout_marginLeft="5dip"
             android:paddingTop="10dip">
 
             <TextView
@@ -60,10 +61,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dip"
+            android:layout_marginRight="5dip"
             android:background="@android:color/transparent"
             android:paddingTop="10dip"
             android:paddingLeft="1dip"
-            android:src="@drawable/ic_mp_delete" />
+            android:src="@drawable/ic_mp_delete3" />
 
     </LinearLayout>
 

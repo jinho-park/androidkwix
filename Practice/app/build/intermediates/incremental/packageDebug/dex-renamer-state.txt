@@ -1,4 +1,4 @@
-#Mon Dec 26 18:53:21 KST 2016
+#Tue Dec 27 15:50:02 KST 2016
 base.0=C\:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0e3000029fd5e24f669f19f18c09f8bdb388e1b6
 renamed.1=classes.dex
 renamed.0=classes2.dex

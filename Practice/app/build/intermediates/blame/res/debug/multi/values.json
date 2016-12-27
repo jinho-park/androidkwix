@@ -227,7 +227,14 @@
                     "endOffset": 1312
                 },
                 "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values\\values.xml"
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
                 }
             },
             {
@@ -2915,14 +2922,7 @@
                     "endOffset": 44785
                 },
                 "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 1,
-                        "startColumn": 4,
-                        "startOffset": 17,
-                        "endColumn": 37,
-                        "endOffset": 50
-                    }
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
