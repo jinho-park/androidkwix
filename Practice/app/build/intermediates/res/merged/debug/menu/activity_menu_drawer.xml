@@ -2,18 +2,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/menu_item_mypage"
-<<<<<<< HEAD
-        android:title="My page"
-        android:orderInCategory="1"/>
-    <item
-        android:id="@+id/menu_item_notice"
-        android:title="공지사항"
-        android:orderInCategory="2"/>
-    <item
-        android:id="@+id/menu_item_setting"
-        android:title="setting"
-        android:orderInCategory="100"/>
-=======
         android:icon="@drawable/ic_side_nav_mypage1"
         android:orderInCategory="1"
         android:title="My page" />
@@ -24,10 +12,7 @@
         android:title="공지사항" />
     <item
         android:id="@+id/menu_item_setting"
-
         android:icon="@drawable/ic_side_nav_setting1"
         android:orderInCategory="100"
         android:title="setting" />
-
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
 </menu>
