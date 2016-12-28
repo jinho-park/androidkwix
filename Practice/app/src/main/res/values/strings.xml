@@ -4,5 +4,9 @@
     <string name="planets_array">분류</string>
 =======
     <string name="app_name"></string>
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
+=======
+    <string name="planets_array">분류</string>
 >>>>>>> refs/remotes/origin/master
 </resources>

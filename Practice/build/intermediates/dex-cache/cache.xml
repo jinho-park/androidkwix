@@ -18,7 +18,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="4d41154839e105f23264f40e8977282d742ac428">
+        sha1="c01f905faac5d40853f8de8aa244829f5ad90c14">
         <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e3000029fd5e24f669f19f18c09f8bdb388e1b6\classes.dex" />
     </item>
     <item
@@ -90,7 +90,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="b9e43940a6ad1a5863e0907112bfe8e9d5c9e809">
+        sha1="7b8006259e529e5ea1a1e41d9f0c0a6e9030a45c">
         <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7ad51f1f0f267aca21929294931e35d44889bf31\classes.dex" />
     </item>
 

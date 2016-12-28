@@ -48,12 +48,12 @@
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-mdpi\\ic_mp_delete1.png"
     },
     {
-        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_side_nav_mypage4.png",
-        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-mdpi\\ic_side_nav_mypage4.png"
-    },
-    {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_side_nav_mypage1.png",
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-mdpi\\ic_side_nav_mypage1.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_side_nav_mypage4.png",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-mdpi\\ic_side_nav_mypage4.png"
     },
     {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_side_nav_notice2.png",
