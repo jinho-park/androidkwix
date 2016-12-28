@@ -1,4 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">KwangWoon Diary</string>
     <string name="planets_array">분류</string>
+=======
+    <string name="app_name"></string>
+>>>>>>> refs/remotes/origin/master
 </resources>
