@@ -25,7 +25,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textColor="#FF707FDD"
-                android:textSize="12dp" />
+                android:textSize="12dp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/notice_date"

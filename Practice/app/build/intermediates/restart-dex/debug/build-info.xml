@@ -4,9 +4,9 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="982975591553372"
+    timestamp="1076400311280029"
     token="-6934327720849265329"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -26,28 +26,15 @@
         type="RESOURCES" />
 
     <build
-        timestamp="980190679683795"
+        timestamp="1076362785050418"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="982373914499825"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="982975591553372"
-        verifier="COMPATIBLE" >
+        timestamp="1076400311280029"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
