@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
-=======
-        "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
         "map": [
             {
                 "to": {
@@ -16,7 +12,6 @@
                     "endOffset": 352
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 2,
@@ -25,16 +20,6 @@
                         "endLine": 7,
                         "endColumn": 12,
                         "endOffset": 359
-=======
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 0,
-                        "startOffset": 55,
-                        "endLine": 8,
-                        "endColumn": 8,
-                        "endOffset": 337
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     }
                 }
             },
@@ -44,17 +29,10 @@
                     "startColumn": 4,
                     "startOffset": 357,
                     "endColumn": 90,
-<<<<<<< HEAD
                     "endOffset": 443
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 423
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,17 +48,10 @@
                     "startColumn": 4,
                     "startOffset": 448,
                     "endColumn": 102,
-<<<<<<< HEAD
                     "endOffset": 546
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 526
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -96,17 +67,10 @@
                     "startColumn": 4,
                     "startOffset": 551,
                     "endColumn": 102,
-<<<<<<< HEAD
                     "endOffset": 649
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 629
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -122,17 +86,10 @@
                     "startColumn": 4,
                     "startOffset": 654,
                     "endColumn": 104,
-<<<<<<< HEAD
                     "endOffset": 754
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 734
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -148,17 +105,10 @@
                     "startColumn": 4,
                     "startOffset": 759,
                     "endColumn": 106,
-<<<<<<< HEAD
                     "endOffset": 861
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 841
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -174,17 +124,10 @@
                     "startColumn": 4,
                     "startOffset": 866,
                     "endColumn": 108,
-<<<<<<< HEAD
                     "endOffset": 970
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 950
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -200,17 +143,10 @@
                     "startColumn": 4,
                     "startOffset": 975,
                     "endColumn": 108,
-<<<<<<< HEAD
                     "endOffset": 1079
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1059
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -226,17 +162,10 @@
                     "startColumn": 4,
                     "startOffset": 1084,
                     "endColumn": 108,
-<<<<<<< HEAD
                     "endOffset": 1188
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1168
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -252,17 +181,10 @@
                     "startColumn": 4,
                     "startOffset": 1193,
                     "endColumn": 108,
-<<<<<<< HEAD
                     "endOffset": 1297
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1277
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -278,17 +200,10 @@
                     "startColumn": 4,
                     "startOffset": 1302,
                     "endColumn": 108,
-<<<<<<< HEAD
                     "endOffset": 1406
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1386
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -304,17 +219,10 @@
                     "startColumn": 4,
                     "startOffset": 1411,
                     "endColumn": 106,
-<<<<<<< HEAD
                     "endOffset": 1513
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1493
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -330,17 +238,10 @@
                     "startColumn": 4,
                     "startOffset": 1518,
                     "endColumn": 102,
-<<<<<<< HEAD
                     "endOffset": 1616
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1596
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -356,17 +257,10 @@
                     "startColumn": 4,
                     "startOffset": 1621,
                     "endColumn": 118,
-<<<<<<< HEAD
                     "endOffset": 1735
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1715
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -383,17 +277,10 @@
                     "startOffset": 1740,
                     "endLine": 22,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 1890
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 1870
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -411,17 +298,10 @@
                     "startOffset": 1895,
                     "endLine": 24,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 2045
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2025
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -438,17 +318,10 @@
                     "startColumn": 4,
                     "startOffset": 2050,
                     "endColumn": 104,
-<<<<<<< HEAD
                     "endOffset": 2150
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2130
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -464,17 +337,10 @@
                     "startColumn": 4,
                     "startOffset": 2155,
                     "endColumn": 120,
-<<<<<<< HEAD
                     "endOffset": 2271
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2251
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -490,17 +356,10 @@
                     "startColumn": 4,
                     "startOffset": 2276,
                     "endColumn": 100,
-<<<<<<< HEAD
                     "endOffset": 2372
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2352
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -517,17 +376,10 @@
                     "startOffset": 2377,
                     "endLine": 29,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 2519
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2499
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -545,17 +397,10 @@
                     "startOffset": 2524,
                     "endLine": 31,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 2660
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2640
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -572,17 +417,10 @@
                     "startColumn": 4,
                     "startOffset": 2665,
                     "endColumn": 102,
-<<<<<<< HEAD
                     "endOffset": 2763
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2743
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -598,17 +436,10 @@
                     "startColumn": 4,
                     "startOffset": 2768,
                     "endColumn": 118,
-<<<<<<< HEAD
                     "endOffset": 2882
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2862
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -624,17 +455,10 @@
                     "startColumn": 4,
                     "startOffset": 2887,
                     "endColumn": 106,
-<<<<<<< HEAD
                     "endOffset": 2989
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 2969
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -650,17 +474,10 @@
                     "startColumn": 4,
                     "startOffset": 2994,
                     "endColumn": 102,
-<<<<<<< HEAD
                     "endOffset": 3092
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 3072
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -677,17 +494,10 @@
                     "startOffset": 3097,
                     "endLine": 37,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 3247
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 3227
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -705,17 +515,10 @@
                     "startOffset": 3252,
                     "endLine": 39,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 3418
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 3398
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -733,17 +536,10 @@
                     "startOffset": 3423,
                     "endLine": 41,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 3567
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 3547
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -761,17 +557,10 @@
                     "startOffset": 3572,
                     "endLine": 43,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 3732
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 3712
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -789,17 +578,10 @@
                     "startOffset": 3737,
                     "endLine": 45,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 3889
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 3869
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -817,17 +599,10 @@
                     "startOffset": 3894,
                     "endLine": 47,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 4040
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 4020
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -844,17 +619,10 @@
                     "startColumn": 4,
                     "startOffset": 4045,
                     "endColumn": 118,
-<<<<<<< HEAD
                     "endOffset": 4159
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 4139
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -871,17 +639,10 @@
                     "startOffset": 4164,
                     "endLine": 53,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 4531
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 4511
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -899,17 +660,10 @@
                     "startOffset": 4536,
                     "endLine": 55,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 4680
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 4660
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -927,17 +681,10 @@
                     "startOffset": 4685,
                     "endLine": 57,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 4829
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 4809
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -954,17 +701,10 @@
                     "startColumn": 4,
                     "startOffset": 4834,
                     "endColumn": 111,
-<<<<<<< HEAD
                     "endOffset": 4941
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 4921
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -980,17 +720,10 @@
                     "startColumn": 4,
                     "startOffset": 4946,
                     "endColumn": 146,
-<<<<<<< HEAD
                     "endOffset": 5088
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5068
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -1007,17 +740,10 @@
                     "startOffset": 5093,
                     "endLine": 61,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 5241
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5221
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -1035,17 +761,10 @@
                     "startOffset": 5246,
                     "endLine": 63,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 5388
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5368
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -1062,17 +781,10 @@
                     "startColumn": 4,
                     "startOffset": 5393,
                     "endColumn": 74,
-<<<<<<< HEAD
                     "endOffset": 5463
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5443
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -1088,17 +800,10 @@
                     "startColumn": 4,
                     "startOffset": 5468,
                     "endColumn": 88,
-<<<<<<< HEAD
                     "endOffset": 5552
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5532
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -1114,17 +819,10 @@
                     "startColumn": 4,
                     "startOffset": 5557,
                     "endColumn": 86,
-<<<<<<< HEAD
                     "endOffset": 5639
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5619
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -1140,17 +838,10 @@
                     "startColumn": 4,
                     "startOffset": 5644,
                     "endColumn": 100,
-<<<<<<< HEAD
                     "endOffset": 5740
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5720
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -1166,17 +857,10 @@
                     "startColumn": 4,
                     "startOffset": 5745,
                     "endColumn": 102,
-<<<<<<< HEAD
                     "endOffset": 5843
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 5823
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -1193,17 +877,10 @@
                     "startOffset": 5848,
                     "endLine": 112,
                     "endColumn": 12,
-<<<<<<< HEAD
                     "endOffset": 8911
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "endOffset": 8891
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -1218,7 +895,6 @@
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 8916,
                     "endLine": 115,
                     "endColumn": 12,
@@ -1226,15 +902,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 8896,
-                    "endLine": 115,
-                    "endColumn": 12,
-                    "endOffset": 9077
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -1249,7 +916,6 @@
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 9102,
                     "endLine": 159,
                     "endColumn": 12,
@@ -1257,15 +923,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 9082,
-                    "endLine": 159,
-                    "endColumn": 12,
-                    "endOffset": 12157
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -1280,7 +937,6 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 12182,
                     "endLine": 162,
                     "endColumn": 12,
@@ -1288,15 +944,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 12162,
-                    "endLine": 162,
-                    "endColumn": 12,
-                    "endOffset": 12355
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -1311,7 +958,6 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 12380,
                     "endLine": 165,
                     "endColumn": 12,
@@ -1319,15 +965,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 12360,
-                    "endLine": 165,
-                    "endColumn": 12,
-                    "endOffset": 12555
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1342,7 +979,6 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 12580,
                     "endLine": 167,
                     "endColumn": 12,
@@ -1350,15 +986,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 12560,
-                    "endLine": 167,
-                    "endColumn": 12,
-                    "endOffset": 12678
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1373,7 +1000,6 @@
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 12703,
                     "endLine": 169,
                     "endColumn": 12,
@@ -1381,15 +1007,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 12683,
-                    "endLine": 169,
-                    "endColumn": 12,
-                    "endOffset": 12801
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1404,7 +1021,6 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 12826,
                     "endLine": 171,
                     "endColumn": 12,
@@ -1412,15 +1028,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 12806,
-                    "endLine": 171,
-                    "endColumn": 12,
-                    "endOffset": 12914
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -1435,7 +1042,6 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 12939,
                     "endLine": 174,
                     "endColumn": 12,
@@ -1443,15 +1049,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 12919,
-                    "endLine": 174,
-                    "endColumn": 12,
-                    "endOffset": 13097
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1466,7 +1063,6 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 13122,
                     "endLine": 176,
                     "endColumn": 12,
@@ -1474,15 +1070,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 13102,
-                    "endLine": 176,
-                    "endColumn": 12,
-                    "endOffset": 13228
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1497,7 +1084,6 @@
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 13253,
                     "endLine": 179,
                     "endColumn": 12,
@@ -1505,15 +1091,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 13233,
-                    "endLine": 179,
-                    "endColumn": 12,
-                    "endOffset": 13429
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1528,21 +1105,12 @@
                 "to": {
                     "startLine": 180,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 13454,
                     "endColumn": 88,
                     "endOffset": 13538
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 13434,
-                    "endColumn": 88,
-                    "endOffset": 13518
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -1556,21 +1124,12 @@
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 13543,
                     "endColumn": 110,
                     "endOffset": 13649
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 13523,
-                    "endColumn": 110,
-                    "endOffset": 13629
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1584,7 +1143,6 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 13654,
                     "endLine": 184,
                     "endColumn": 12,
@@ -1592,15 +1150,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 13634,
-                    "endLine": 184,
-                    "endColumn": 12,
-                    "endOffset": 13862
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1615,21 +1164,12 @@
                 "to": {
                     "startLine": 185,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 13887,
                     "endColumn": 100,
                     "endOffset": 13983
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 13867,
-                    "endColumn": 100,
-                    "endOffset": 13963
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1643,21 +1183,12 @@
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 13988,
                     "endColumn": 94,
                     "endOffset": 14078
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 13968,
-                    "endColumn": 94,
-                    "endOffset": 14058
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -1671,21 +1202,12 @@
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 14083,
                     "endColumn": 122,
                     "endOffset": 14201
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14063,
-                    "endColumn": 122,
-                    "endOffset": 14181
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1699,21 +1221,12 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 14206,
                     "endColumn": 128,
                     "endOffset": 14330
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14186,
-                    "endColumn": 128,
-                    "endOffset": 14310
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -1727,21 +1240,12 @@
                 "to": {
                     "startLine": 189,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 14335,
                     "endColumn": 116,
                     "endOffset": 14447
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14315,
-                    "endColumn": 116,
-                    "endOffset": 14427
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1755,7 +1259,6 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 14452,
                     "endLine": 192,
                     "endColumn": 12,
@@ -1763,15 +1266,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14432,
-                    "endLine": 192,
-                    "endColumn": 12,
-                    "endOffset": 14604
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -1786,21 +1280,12 @@
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 14629,
                     "endColumn": 98,
                     "endOffset": 14723
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14609,
-                    "endColumn": 98,
-                    "endOffset": 14703
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1814,7 +1299,6 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 14728,
                     "endLine": 195,
                     "endColumn": 12,
@@ -1822,15 +1306,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14708,
-                    "endLine": 195,
-                    "endColumn": 12,
-                    "endOffset": 14838
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1845,7 +1320,6 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 14863,
                     "endLine": 197,
                     "endColumn": 12,
@@ -1853,15 +1327,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14843,
-                    "endLine": 197,
-                    "endColumn": 12,
-                    "endOffset": 14981
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -1876,7 +1341,6 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15006,
                     "endLine": 199,
                     "endColumn": 12,
@@ -1884,15 +1348,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 14986,
-                    "endLine": 199,
-                    "endColumn": 12,
-                    "endOffset": 15116
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1907,7 +1362,6 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15141,
                     "endLine": 201,
                     "endColumn": 12,
@@ -1915,15 +1369,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15121,
-                    "endLine": 201,
-                    "endColumn": 12,
-                    "endOffset": 15235
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1938,7 +1383,6 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15260,
                     "endLine": 205,
                     "endColumn": 12,
@@ -1946,15 +1390,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15240,
-                    "endLine": 205,
-                    "endColumn": 12,
-                    "endOffset": 15436
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1969,7 +1404,6 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15461,
                     "endLine": 207,
                     "endColumn": 12,
@@ -1977,15 +1411,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15441,
-                    "endLine": 207,
-                    "endColumn": 12,
-                    "endOffset": 15555
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -2000,21 +1425,12 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15580,
                     "endColumn": 92,
                     "endOffset": 15668
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15560,
-                    "endColumn": 92,
-                    "endOffset": 15648
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -2028,21 +1444,12 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15673,
                     "endColumn": 110,
                     "endOffset": 15779
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15653,
-                    "endColumn": 110,
-                    "endOffset": 15759
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -2056,21 +1463,12 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15784,
                     "endColumn": 55,
                     "endOffset": 15835
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15764,
-                    "endColumn": 55,
-                    "endOffset": 15815
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -2084,7 +1482,6 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15840,
                     "endLine": 212,
                     "endColumn": 12,
@@ -2092,15 +1489,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15820,
-                    "endLine": 212,
-                    "endColumn": 12,
-                    "endOffset": 15922
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -2115,7 +1503,6 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 15947,
                     "endLine": 216,
                     "endColumn": 12,
@@ -2123,15 +1510,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 15927,
-                    "endLine": 216,
-                    "endColumn": 12,
-                    "endOffset": 16117
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -2146,7 +1524,6 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16142,
                     "endLine": 218,
                     "endColumn": 12,
@@ -2154,15 +1531,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16122,
-                    "endLine": 218,
-                    "endColumn": 12,
-                    "endOffset": 16228
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -2177,7 +1545,6 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16253,
                     "endLine": 220,
                     "endColumn": 12,
@@ -2185,15 +1552,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16233,
-                    "endLine": 220,
-                    "endColumn": 12,
-                    "endOffset": 16361
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -2208,21 +1566,12 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16386,
                     "endColumn": 94,
                     "endOffset": 16476
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16366,
-                    "endColumn": 94,
-                    "endOffset": 16456
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -2236,21 +1585,12 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16481,
                     "endColumn": 90,
                     "endOffset": 16567
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16461,
-                    "endColumn": 90,
-                    "endOffset": 16547
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -2264,21 +1604,12 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16572,
                     "endColumn": 90,
                     "endOffset": 16658
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16552,
-                    "endColumn": 90,
-                    "endOffset": 16638
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -2292,21 +1623,12 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16663,
                     "endColumn": 116,
                     "endOffset": 16775
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16643,
-                    "endColumn": 116,
-                    "endOffset": 16755
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -2320,7 +1642,6 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16780,
                     "endLine": 226,
                     "endColumn": 12,
@@ -2328,15 +1649,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16760,
-                    "endLine": 226,
-                    "endColumn": 12,
-                    "endOffset": 16894
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -2351,7 +1663,6 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 16919,
                     "endLine": 236,
                     "endColumn": 12,
@@ -2359,15 +1670,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 16899,
-                    "endLine": 236,
-                    "endColumn": 12,
-                    "endOffset": 17407
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -2382,7 +1684,6 @@
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 17432,
                     "endLine": 246,
                     "endColumn": 12,
@@ -2390,15 +1691,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 17412,
-                    "endLine": 246,
-                    "endColumn": 12,
-                    "endOffset": 17932
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -2413,7 +1705,6 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 17957,
                     "endLine": 256,
                     "endColumn": 12,
@@ -2421,15 +1712,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 17937,
-                    "endLine": 256,
-                    "endColumn": 12,
-                    "endOffset": 18612
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -2444,21 +1726,12 @@
                 "to": {
                     "startLine": 257,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 18637,
                     "endColumn": 56,
                     "endOffset": 18689
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 18617,
-                    "endColumn": 56,
-                    "endOffset": 18669
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -2472,21 +1745,12 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 18694,
                     "endColumn": 57,
                     "endOffset": 18747
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 18674,
-                    "endColumn": 57,
-                    "endOffset": 18727
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -2500,7 +1764,6 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-<<<<<<< HEAD
                     "startOffset": 18752,
                     "endLine": 261,
                     "endColumn": 12,
@@ -2508,15 +1771,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-v21\\values-v21.xml",
-=======
-                    "startOffset": 18732,
-                    "endLine": 261,
-                    "endColumn": 12,
-                    "endOffset": 18921
-                },
-                "from": {
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\values-v21\\values-v21.xml",
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

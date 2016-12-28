@@ -1,110 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-<<<<<<< HEAD
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="262171531363416"
+    timestamp="458076126606325"
     token="-792731546571699975" >
 
     <task
         name="javac"
-        duration="929" />
-=======
-    abi="x86"
-    api-level="21"
-    density="hdpi"
-    format="8"
-    plugin-version="2.2.3"
-    timestamp="636444866117352"
-    token="-6934327720849265329"
-    verifier="R_CLASS_CHANGE" >
-
-    <task
-        name="javac"
-        duration="1710" />
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
+        duration="1400" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-<<<<<<< HEAD
-        duration="267" />
+        duration="29" />
     <task
         name="verifier"
-        duration="35" />
-=======
-        duration="224" />
-    <task
-        name="verifier"
-        duration="68" />
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
+        duration="66" />
 
-    <artifact
-        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-<<<<<<< HEAD
-        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
     <artifact
         location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
         type="DEX" />
 
-    <build timestamp="260511692269692" >
+    <build timestamp="457735424803438" >
         <artifact
             location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="262171531363416" >
-        <artifact
-            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
+    <build timestamp="458076126606325" >
         <artifact
             location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-=======
-        location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-        type="DEX" />
-
-    <build
-        timestamp="635595717805973"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
-    <build
-        timestamp="636444866117352"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
->>>>>>> 7bfda515431e2e75a4b18e8ea91e18bd81e55b3b
             type="DEX" />
     </build>
 

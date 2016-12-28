@@ -20,6 +20,7 @@ import static java.security.AccessController.getContext;
 
 public class MainActivity extends FragmentActivity implements NavigationView.OnNavigationItemSelectedListener{
     private static AlarmManager am;
+    private Toolbar toolbar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -46,7 +47,7 @@ public class MainActivity extends FragmentActivity implements NavigationView.OnN
         calendar.set(year, month, day, hour, minute);
         am.setRepeating(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(), 60*10*60 * 1000, sender);
         //getSupportActionBar().hide();
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.activity_main);
@@ -56,6 +57,7 @@ public class MainActivity extends FragmentActivity implements NavigationView.OnN
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+        fragmentReplace(super.HOME);
     }
 
     @Override
@@ -80,11 +82,14 @@ public class MainActivity extends FragmentActivity implements NavigationView.OnN
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_search) {
-
-            return true;
+        switch(id) {
+            case R.id.action_search :
+                Intent intent = new Intent(this,Searchactivity.class);
+                startActivity(intent);
+                break;
+            default:
+                break;
         }
 
         return super.onOptionsItemSelected(item);
@@ -94,12 +99,29 @@ public class MainActivity extends FragmentActivity implements NavigationView.OnN
     public boolean onNavigationItemSelected(MenuItem item) {
         int id=item.getItemId();
 
-        if(id == R.id.menu_item_mypage) {
+        /*if(id == R.id.menu_item_mypage) {
             fragmentReplace(super.MYPAGE);
         }else if(id == R.id.menu_item_notice) {
             fragmentReplace(super.NOTICE);
         }else if(id == R.id.menu_item_setting){
             fragmentReplace(super.SETTING);
+        }*/
+        switch (id){
+            case R.id.menu_item_home:
+                fragmentReplace(super.HOME);
+                break;
+            case R.id.menu_item_mypage:
+                fragmentReplace(super.MYPAGE);
+                break;
+            case R.id.menu_item_notice:
+                fragmentReplace(super.NOTICE);
+                break;
+            case R.id.menu_item_setting:
+                fragmentReplace(super.SETTING);
+                break;
+            default:
+                Log.d("MENU", "strage value");
+                break;
         }
 
         DrawerLayout drawer = (DrawerLayout)findViewById(R.id.activity_main);
