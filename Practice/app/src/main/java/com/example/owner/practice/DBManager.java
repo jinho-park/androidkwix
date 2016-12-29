@@ -40,6 +40,10 @@ public class DBManager extends SQLiteOpenHelper {
     public void insert(String cate, String title, String date, String url) {
         Log.d(TAG, "Insert");
         SQLiteDatabase db = getWritableDatabase();
+        if(DBname == "NEW_NOTICE_LIST"){
+            Cursor cursor= db.rawQuery("select * from "+DBname, null);
+            db.execSQL("DELETE FROM "+DBname+";");
+        }
         db.execSQL("insert into "+DBname+" values(null, '" + cate + "','" + title + "','"+date+"','"+url+"');");
         db.close();
     }
@@ -63,7 +67,7 @@ public class DBManager extends SQLiteOpenHelper {
         SQLiteDatabase db = getReadableDatabase();
         list = new ArrayList<Notice_List>();
 
-        Cursor cursor = db.rawQuery("select * from MY_NOTICE_LIST", null);
+        Cursor cursor = db.rawQuery("select * from "+DBname, null);
         while(cursor.moveToNext()) {
             Notice_List item = new Notice_List();
             item.setCat(cursor.getString(1));
@@ -71,6 +75,7 @@ public class DBManager extends SQLiteOpenHelper {
             item.setDate(cursor.getString(3));
             item.setUrls(cursor.getString(4));
             list.add(item);
+            Log.d(TAG, item.getTitles());
         }
         Log.d(TAG, "get Data size" + list.size());
 

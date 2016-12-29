@@ -11,6 +11,8 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 import java.util.Vector;
 
 import static android.content.Context.MODE_PRIVATE;
@@ -24,6 +26,7 @@ public class NotificationActivity extends BroadcastReceiver {
     private Vector<Notice_List> newlist;
     private DBManager dbManager;
     private SharedPreferences prefs;
+    private ArrayList<String> list = new ArrayList<String>();
 
     @Override
     public void onReceive(Context context, Intent intent) {
@@ -47,17 +50,28 @@ public class NotificationActivity extends BroadcastReceiver {
             switch (msg.what) {
                 case QUERY_THREAD_OK:
                     Log.d("SERVICE", "Message ok");
-                    if(prefs.getBoolean("keyword", false)){
-                        for(int i=0; i<newlist.size(); i++){
+                    int size = prefs.getInt("size", 0);
+                    Log.d("test", "size : " + size);
+                    if(prefs.getBoolean("keyword", false) == true && size != 0){
+                        Log.d("test","keyword");
+                        for(int i=0; i< newlist.size(); i++){
                             Notice_List item = newlist.get(i);
-                            String v= prefs.getString("list"+i, null);
-                            if (v == null) break;
-                            if(item.getTitles().contains(v)){
-                                dbManager.insert(item.getCats(), item.getTitles(), item.getDates(), item.getUrls());
-                                j++;
+                            Log.d("test",item.getTitles().toString());
+                            for (int k = 0; k < size; k++) {
+                                String v = prefs.getString("list"+k,null);
+                                Log.d("test",v);
+                                if(item.getTitles().contains(v)){
+                                    j++;
+                                }
                             }
+
                         }
                     }
+                    for (int i = 0; i< newlist.size(); i++){
+                        Notice_List item = newlist.get(i);
+                        dbManager.insert(item.getCats(), item.getTitles(), item.getDates(), item.getUrls());
+                    }
+                    Log.d("test", String.valueOf(j));
                     //if(prefs.getBoolean("keyword"))
                     NotificationManager notifier = (NotificationManager) mContext.getSystemService(Context.NOTIFICATION_SERVICE);
                     Intent intent = new Intent(mContext, MainActivity.class);

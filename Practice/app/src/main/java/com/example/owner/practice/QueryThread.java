@@ -59,9 +59,7 @@ public class QueryThread extends Thread {
 
             if(value[0].equals("new")) {
                 Log.d(TAG, "Alarm");
-                if (mNoticelist.size()>1){
                     context.handler.sendEmptyMessage(context.QUERY_THREAD_OK);
-                }
             }else if(value[0].equals("sch")){
                 searchactivity.handler.sendEmptyMessage(searchactivity.SEARCH_THREAD_OK);
             } else{
@@ -70,10 +68,6 @@ public class QueryThread extends Thread {
                     mContext.handler.sendEmptyMessage(mContext.THREAD_QUERY_SUCCESS_INFO);
                 }
             }
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/master
         }catch (IOException e){
             Log.d(TAG, e.toString());
         }catch (ClassNotFoundException e){
