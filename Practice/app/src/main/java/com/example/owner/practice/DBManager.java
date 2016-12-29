@@ -40,11 +40,14 @@ public class DBManager extends SQLiteOpenHelper {
     public void insert(String cate, String title, String date, String url) {
         Log.d(TAG, "Insert");
         SQLiteDatabase db = getWritableDatabase();
-        if(DBname == "NEW_NOTICE_LIST"){
-            Cursor cursor= db.rawQuery("select * from "+DBname, null);
-            db.execSQL("DELETE FROM "+DBname+";");
-        }
         db.execSQL("insert into "+DBname+" values(null, '" + cate + "','" + title + "','"+date+"','"+url+"');");
+        db.close();
+    }
+
+    public void deleteTable() {
+        Log.d(TAG, "deleteTable");
+        SQLiteDatabase db = getWritableDatabase();
+        db.execSQL("DELETE FROM NEW_NOTICE_LIST;");
         db.close();
     }
 

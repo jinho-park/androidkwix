@@ -31,6 +31,9 @@
         </activity>
 
         <receiver android:name="com.example.owner.practice.NotificationActivity" />
+
+        <activity android:name="com.example.owner.practice.Searchactivity" />
+        <activity android:name="com.example.owner.practice.Keywordactivity" />
     </application>
 
 </manifest>

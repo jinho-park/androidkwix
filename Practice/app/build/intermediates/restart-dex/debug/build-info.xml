@@ -1,70 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-<<<<<<< HEAD
     abi="armeabi-v7a,armeabi"
     api-level="21"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="318355104989"
+    timestamp="6639420277646"
     token="-6682975657061628425"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1330" />
-=======
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
-    density="xxxhdpi"
-    format="7"
-    timestamp="4807355253763"
-    token="-792731546571699975" >
-
-    <task
-        name="javac"
-        duration="1026" />
->>>>>>> refs/remotes/origin/master
+        duration="114" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-<<<<<<< HEAD
-        duration="226" />
+        duration="4" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
         location="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="318355104989"
+        timestamp="6639420277646"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/outputs/apk/app-debug.apk"
-=======
-        duration="108" />
-    <task
-        name="verifier"
-        duration="7" />
-
-    <artifact
-        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-        type="DEX" />
-
-    <build timestamp="2337914690830" >
-        <artifact
-            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
->>>>>>> refs/remotes/origin/master
             type="MAIN" />
-    </build>
-    <build timestamp="4807355253763" >
-        <artifact
-            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

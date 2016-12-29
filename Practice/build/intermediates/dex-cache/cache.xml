@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
-<<<<<<< HEAD
     <item
         is-multidex="true"
         jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
@@ -13,21 +12,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="3b267cad8398834e35f733bdd2af41360cc5f63d">
-        <dex dex="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_203f9eab65eff2af8dbce523aa87626913b2c644/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
         <dex dex="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_041941653befe0e382bb2bcf9388621301757533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="af63c474058f37fd09bb72d1fc988614d994b708">
+        <dex dex="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_203f9eab65eff2af8dbce523aa87626913b2c644/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -71,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="3ca7b66d458b883c2f535389087cc3ca3e1eff76">
+        sha1="fcd02c4cd69cfaf194d797fe2bb9e7786fd6307b">
         <dex dex="/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6eef3193dfdea4259d334c869f471bcb77d85037/classes.dex" />
     </item>
     <item
@@ -94,5 +93,3 @@
     </item>
 
 </items>
-=======
->>>>>>> refs/remotes/origin/master

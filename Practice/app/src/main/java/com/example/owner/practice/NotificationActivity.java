@@ -67,6 +67,7 @@ public class NotificationActivity extends BroadcastReceiver {
 
                         }
                     }
+                    dbManager.deleteTable();
                     for (int i = 0; i< newlist.size(); i++){
                         Notice_List item = newlist.get(i);
                         dbManager.insert(item.getCats(), item.getTitles(), item.getDates(), item.getUrls());
