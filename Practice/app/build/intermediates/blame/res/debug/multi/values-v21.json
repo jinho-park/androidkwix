@@ -14,21 +14,12 @@
                 "from": {
                     "file": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/values-v21/styles.xml",
                     "position": {
-<<<<<<< HEAD
-                        "startLine": 3,
-                        "startColumn": 0,
-                        "startOffset": 52,
-                        "endLine": 8,
-                        "endColumn": 8,
-                        "endOffset": 329
-=======
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 57,
+                        "startOffset": 55,
                         "endLine": 7,
                         "endColumn": 12,
-                        "endOffset": 359
->>>>>>> 8a1026cabe44338bf74b9898622f71450b47fde0
+                        "endOffset": 352
                     }
                 }
             },

@@ -4,6 +4,9 @@ import java.net.Socket;
 import com.example.owner.practice.*;
 import java.io.*;
 import java.sql.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class ClientThread extends Thread{
 	private Socket sock;
@@ -29,7 +32,7 @@ public class ClientThread extends Thread{
 			System.out.println(string);
 			try {
 				Connection conn;
-				String sql = "SELECT * FROM Notice";;
+				String sql = "SELECT * FROM Notice";
 				conn = DriverManager.getConnection(url,user,pass);
 				System.out.println("success");
 				java.sql.Statement st = null;
@@ -42,93 +45,371 @@ public class ClientThread extends Thread{
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
 					}
+					while(rs.next()) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 				}
 				else if(string.equals("new")) {
+					SimpleDateFormat format = new SimpleDateFormat("yyyy.MM.dd");
+					Date day1 = null;
+					Date day2 = null;
+					Date present = new Date();
+					sql = "SELECT * FROM Notice";
+					rs = st.executeQuery(sql);
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						try {
+							day1 = format.parse(format.format(present));
+							day2 = format.parse(rs.getString("Date"));
+						} catch(ParseException e) {
+							e.printStackTrace();
+						}
+						int compare = day1.compareTo(day2);
+						if(compare > 0) {
+						}
+						else {
+							Notice_List data = new Notice_List();
+							String str = rs.getString("Category");
+							if(str.equals("")) {
+								data.setCat("[없음]");
+							}
+							else {
+								data.setCat(str);
+							}
+							str = rs.getString("Title");
+							data.setTitle(str);
+							str = rs.getString("Date");
+							data.setDate(str);
+							str = rs.getString("Hyperlink");
+							data.setUrls(str);
+							oos.writeObject(data);
+							oos.flush();
+						}
+					}
+				}
+				else if(string.equals("nor")) {
 					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
 					}
-				}
-				else if(string.equals("nor")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[일반]\"";
-					rs = st.executeQuery(sql);
-					
-					if(st.execute(sql)) {
-						rs = st.getResultSet();
+					while(rs.next()) {
+						if(rs.getString("Category").contains("일반")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("stu")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[학생]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("학생")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("hak")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[학사]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("학사")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("vol")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[봉사]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("봉사")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("jan")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[등록/장학]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("장학")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("ent")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[입학]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("입학")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("sul")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[시설]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("시설")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("mil")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[병무]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("병무")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else if(string.equals("out")) {
-					sql = "SELECT * FROM Notice WHERE Category = \"[외부]\"";
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
 					}
+					while(rs.next()) {
+						if(rs.getString("Category").contains("외부")) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
+					}
 				}
-				else if(string.substring(0,3).equals("sch")) {
-					sql = "SELECT * FROM Notice WHERE Title LIKE \"%"+string.substring(4,string.length())+"%\"";
+				else if(string.substring(0,4).equals("sch/")) {
+					sql = "SELECT * FROM Notice";
 					rs = st.executeQuery(sql);
 					
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Title").contains(string.substring(4,string.length()))) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
+					}
+				}
+				else if(string.substring(0,4).equals("new/")) {
+					sql = "SELECT * FROM Notice";
+					rs = st.executeQuery(sql);
+					
+					if(st.execute(sql)) {
+						rs = st.getResultSet();
+					}
+					while(rs.next()) {
+						if(rs.getString("Title").contains(string.substring(4,string.length()))) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+						}
 					}
 				}
 				else {
@@ -138,27 +419,27 @@ public class ClientThread extends Thread{
 					if(st.execute(sql)) {
 						rs = st.getResultSet();
 					}
+					while(rs.next()) {
+						Notice_List data = new Notice_List();
+						String str = rs.getString("Category");
+						if(str.equals("")) {
+							data.setCat("[없음]");
+						}
+						else {
+							data.setCat(str);
+						}
+						str = rs.getString("Title");
+						data.setTitle(str);
+						str = rs.getString("Date");
+						data.setDate(str);
+						str = rs.getString("Hyperlink");
+						data.setUrls(str);
+						oos.writeObject(data);
+						oos.flush();
+					}
 				}
 
-				while(rs.next()) {
-					Notice_List data = new Notice_List();
-					String str = rs.getString("Category");
-					if(str.equals("")) {
-						data.setCat("[없음]");
-					}
-					else {
-						data.setCat(str);
-					}
-					str = rs.getString("Title");
-					data.setTitle(str);
-					str = rs.getString("Date");
-					data.setDate(str);
-					str = rs.getString("Hyperlink");
-					data.setUrls(str);
-					oos.writeObject(data);
-					oos.flush();
-				}
-				System.out.println("jinsejin");
+				System.out.println("end");
 				Notice_List data = new Notice_List();
 				data.setTitle("end");
 				oos.writeObject(data);
@@ -170,9 +451,6 @@ public class ClientThread extends Thread{
 				System.out.println("SQLException: " + e.getMessage());
 				System.out.println("SQLState: " + e.getSQLState());
 			}
-			
-
-			
 			
 			sock.close();
 		} catch (IOException e) {
