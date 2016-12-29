@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planet_prompt">
+        <item>전체</item>
+        <item>일반</item>
+        <item>학생</item>
+        <item>학사</item>
+        <item>봉사</item>
+        <item>등록/장학</item>
+        <item>입학</item>
+        <item>시설</item>
+        <item>병무</item>
+        <item>외부</item>
+    </string-array>
+</resources>

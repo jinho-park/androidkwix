@@ -19,6 +19,8 @@
             </intent-filter>
         </activity>
         <receiver android:name="NotificationActivity" />
+        <activity android:name=".Searchactivity"></activity>
+        <activity android:name=".Keywordactivity"/>
     </application>
 
     <uses-permission android:name="android.permission.INTERNET"/>

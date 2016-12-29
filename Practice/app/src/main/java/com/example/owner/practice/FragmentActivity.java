@@ -8,6 +8,7 @@ public class FragmentActivity extends AppCompatActivity {
     final int MYPAGE = 1;
     final int SETTING = 2;
     final int NOTICE = 3;
+    final int HOME = 4;
 
     public void fragmentReplace(int index){
         Fragment newfragment = null;
@@ -30,6 +31,9 @@ public class FragmentActivity extends AppCompatActivity {
                 break;
             case NOTICE:
                 newfragment = new Notice_Fragment();
+                break;
+            case HOME:
+                newfragment = new NewNotice_Fragment();
                 break;
         }
         return newfragment;
