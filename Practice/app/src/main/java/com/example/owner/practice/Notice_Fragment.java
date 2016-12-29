@@ -8,17 +8,25 @@ import android.os.Message;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ImageButton;
+import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
+
 import java.util.Vector;
 
 public class Notice_Fragment extends Fragment {
-    final static int THREAD_QUERY_SUCCESS_INFO = 1;
+    final int THREAD_QUERY_SUCCESS_INFO = 1;
+    final int SPINNER_THREAD_QUERY_SUCCESS = 6;
     private RecyclerView mNoticeRecyclerView;
     private NoticeAdapter mAdapter;
+    private Spinner spinner;
+    private Notice_Fragment mClass;
     static QueryThread queryThread;
     DBManager dbManager;
     Vector<Notice_List> notice_lists;
@@ -28,10 +36,62 @@ public class Notice_Fragment extends Fragment {
         View view = inflater.inflate(R.layout.notice, container, false);
         notice_lists = new Vector<Notice_List>();
         dbManager = new DBManager(getContext(), "Mynotice.db", null , 1);
-        queryThread = new QueryThread("all", this, notice_lists);
+        mClass = this;
+        queryThread = new QueryThread("all", mClass, notice_lists);
         queryThread.start();
         mNoticeRecyclerView = (RecyclerView)view.findViewById(R.id.notice_fragment_view);
         mNoticeRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+        spinner = (Spinner)view.findViewById(R.id.notice_spinner);
+        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                notice_lists.clear();
+                String message;
+                switch(i){
+                    case 0:
+                        message = "all";
+                        break;
+                    case 1:
+                        message = "nor";
+                        break;
+                    case 2:
+                        message = "stu";
+                        break;
+                    case 3:
+                        message = "hak";
+                        break;
+                    case 4:
+                        message = "vol";
+                        break;
+                    case 5:
+                        message = "jan";
+                        break;
+                    case 6:
+                        message = "ent";
+                        break;
+                    case 7:
+                        message = "sul";
+                        break;
+                    case 8:
+                        message = "mil";
+                        break;
+                    case 9:
+                        message = "out";
+                        break;
+                    default:
+                        message = "all";
+                        break;
+                }
+                queryThread = new QueryThread(message, mClass , notice_lists);
+                queryThread.start();
+                Log.d("SPINNER", "Position : " + i);
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
 
         return view;
     }
@@ -78,6 +138,7 @@ public class Notice_Fragment extends Fragment {
                 @Override
                 public void onClick(View view) {
                     dbManager.insert(mNotice.getCats(), mNotice.getTitles(), mNotice.getDates(), mNotice.getUrls());
+                    Toast.makeText(getContext(), "추가되었습니다", Toast.LENGTH_LONG).show();
                 }
             });
         }
@@ -125,7 +186,11 @@ public class Notice_Fragment extends Fragment {
             super.handleMessage(msg);
             switch (msg.what){
                 case THREAD_QUERY_SUCCESS_INFO:
+                    Log.d("NOTICE_HANDLER", "update UI");
                     updateUI();
+                    break;
+                case SPINNER_THREAD_QUERY_SUCCESS:
+                    mAdapter.notifyDataSetChanged();
                     break;
                 default:
                     break;

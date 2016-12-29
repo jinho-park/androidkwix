@@ -3,7 +3,7 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:id="@+id/notice_spinner">
+    android:id="@+id/notice_layout">
 
     <android.support.v7.widget.AppCompatSpinner
         android:layout_width="150dp"
@@ -11,6 +11,7 @@
         android:layout_gravity="right"
         android:layout_marginTop="10dp"
         android:backgroundTint="@color/colorAccent"
+        android:id="@+id/notice_spinner"
         android:entries="@array/planet_prompt"
         android:prompt="@string/planets_array" />
 

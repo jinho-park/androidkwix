@@ -26,7 +26,6 @@ public class NotificationActivity extends BroadcastReceiver {
     private Vector<Notice_List> newlist;
     private DBManager dbManager;
     private SharedPreferences prefs;
-    private ArrayList<String> list = new ArrayList<String>();
 
     @Override
     public void onReceive(Context context, Intent intent) {

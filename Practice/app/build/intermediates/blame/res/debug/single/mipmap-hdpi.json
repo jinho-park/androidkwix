@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_icon.png",
+        "source": "C:\\Users\\Owner\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_icon.png"
     },
     {
-        "merged": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_icon.png",
-        "source": "/home/hata/Desktop/kwix_git/androidkwix/Practice/app/src/main/res/mipmap-hdpi/ic_launcher_icon.png"
+        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Owner\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\hata\\Desktop\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_icon.png",
+        "source": "C:\\home\\hata\\Desktop\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_icon.png"
+    },
+    {
+        "merged": "C:\\home\\hata\\Desktop\\kwix_git\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\home\\hata\\Desktop\\kwix_git\\androidkwix\\Practice\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]
