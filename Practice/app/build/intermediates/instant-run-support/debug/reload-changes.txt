@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\owner\practice\Setting_Fragment$override.class

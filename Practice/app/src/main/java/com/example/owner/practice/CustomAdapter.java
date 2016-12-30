@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -54,7 +55,7 @@ public class CustomAdapter extends BaseAdapter{
         View row = inflater.inflate(R.layout.keyword, viewGroup, false);
         TextView text = (TextView) row.findViewById(R.id.keytext);
         text.setText(m_List.get(position));
-        Button btn = (Button) row.findViewById(R.id.keybutton);
+        ImageButton btn = (ImageButton) row.findViewById(R.id.keybutton);
         btn.setTag(position);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override

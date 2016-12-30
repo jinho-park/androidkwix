@@ -1,12 +1,15 @@
 package com.example.owner.practice;
 
 import android.content.Context;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageButton;
 import android.widget.TextView;
+import android.widget.Toast;
+
 import java.util.Vector;
 
 /**
@@ -39,6 +42,7 @@ public class Search_listviewAdapter extends BaseAdapter {
         final int pos = i;
         final Context context = viewGroup.getContext();
         final DBManager dbManager = new DBManager(context, "Mynotice.db", null , 1);
+        Log.d("SEARCH_ADAPTER", "view create start & list size : "+ list.size());
 
         if(view == null){
             LayoutInflater layoutInflater = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
@@ -59,7 +63,8 @@ public class Search_listviewAdapter extends BaseAdapter {
         delete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                dbManager.insert(item.getCats(), item.getTitles(), item.getDates(), item.getUrls());
+                Toast.makeText(context, "추가되었습니다", Toast.LENGTH_LONG).show();
             }
         });
 

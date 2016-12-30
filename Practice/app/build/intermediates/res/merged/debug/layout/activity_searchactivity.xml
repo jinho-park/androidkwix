@@ -2,7 +2,10 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="match_parent"
     android:layout_width="match_parent"
-    android:orientation="horizontal">
+    android:orientation="vertical"
+    android:id="@+id/linear"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
 
 
     <android.support.v7.widget.Toolbar
@@ -13,16 +16,6 @@
         android:background="#FFFF7B71">
 
     </android.support.v7.widget.Toolbar>
-
-    <EditText
-        android:imeOptions="actionSearch"
-        android:inputType="text"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/edittext"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="17dp" />
 
     <ListView
         android:layout_width="match_parent"

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+=======
+        "outputFile": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
         "map": [
             {
                 "to": {
@@ -11,7 +15,38 @@
                     "endOffset": 108
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+=======
+                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+<<<<<<< HEAD
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+=======
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

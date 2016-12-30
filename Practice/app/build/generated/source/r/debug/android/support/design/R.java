@@ -620,7 +620,15 @@ public final class R {
 		public static final int abc_textfield_search_material = 0x7f02004b;
 		public static final int design_fab_background = 0x7f02004c;
 		public static final int design_snackbar_background = 0x7f02004d;
+<<<<<<< HEAD
 		public static final int notification_template_icon_bg = 0x7f020064;
+=======
+<<<<<<< HEAD
+		public static final int notification_template_icon_bg = 0x7f020064;
+=======
+		public static final int notification_template_icon_bg = 0x7f020062;
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0d0094;

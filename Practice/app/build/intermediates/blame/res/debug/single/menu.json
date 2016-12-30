@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
     },
@@ -10,5 +11,35 @@
     {
         "merged": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
         "source": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\search.xml"
+=======
+<<<<<<< HEAD
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+=======
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
+        "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\src\\main\\res\\menu\\search.xml"
+<<<<<<< HEAD
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\menu\\main.xml"
+=======
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
     }
 ]

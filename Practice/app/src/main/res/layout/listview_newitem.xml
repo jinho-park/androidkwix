@@ -9,22 +9,22 @@
         android:orientation="vertical"
         android:layout_weight="2">
 
-        <EditText
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/newitem_cate"
             android:text="category"/>
 
-        <EditText
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/newitem_date"
             android:text="date"/>
     </LinearLayout>
 
-    <EditText
+    <TextView
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:id="@+id/newitem_title"
         android:layout_weight="4"
         android:text="this place is title"/>

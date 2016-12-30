@@ -611,6 +611,7 @@ int drawable ic_mp_delete 0x7f02004f
 int drawable ic_mp_delete1 0x7f020050
 int drawable ic_mp_delete2 0x7f020051
 int drawable ic_mp_delete3 0x7f020052
+<<<<<<< HEAD
 int drawable ic_notice_list_btn_off 0x7f020053
 int drawable ic_notice_list_btn_on 0x7f020054
 int drawable ic_search_notice 0x7f020055
@@ -626,10 +627,50 @@ int drawable ic_side_nav_notice3 0x7f02005e
 int drawable ic_side_nav_setting 0x7f02005f
 int drawable ic_side_nav_setting1 0x7f020060
 int drawable ic_size_nav_notice4 0x7f020061
+=======
+<<<<<<< HEAD
+int drawable ic_notice_add_btn 0x7f020053
+int drawable ic_notice_list_btn_off 0x7f020054
+int drawable ic_notice_list_btn_on 0x7f020055
+int drawable ic_search_notice 0x7f020056
+int drawable ic_side_nav_home 0x7f020057
+int drawable ic_side_nav_mypage 0x7f020058
+int drawable ic_side_nav_mypage1 0x7f020059
+int drawable ic_side_nav_mypage2 0x7f02005a
+int drawable ic_side_nav_mypage4 0x7f02005b
+int drawable ic_side_nav_notice 0x7f02005c
+int drawable ic_side_nav_notice1 0x7f02005d
+int drawable ic_side_nav_notice2 0x7f02005e
+int drawable ic_side_nav_notice3 0x7f02005f
+int drawable ic_side_nav_setting 0x7f020060
+int drawable ic_side_nav_setting1 0x7f020061
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int drawable icon_kw 0x7f020062
 int drawable kwang3 0x7f020063
 int drawable notification_template_icon_bg 0x7f020064
 int id action0 0x7f0d0094
+<<<<<<< HEAD
+=======
+=======
+int drawable ic_notice_list_btn_off 0x7f020053
+int drawable ic_notice_list_btn_on 0x7f020054
+int drawable ic_search_notice 0x7f020055
+int drawable ic_side_nav_mypage 0x7f020056
+int drawable ic_side_nav_mypage1 0x7f020057
+int drawable ic_side_nav_mypage2 0x7f020058
+int drawable ic_side_nav_mypage4 0x7f020059
+int drawable ic_side_nav_notice 0x7f02005a
+int drawable ic_side_nav_notice1 0x7f02005b
+int drawable ic_side_nav_notice2 0x7f02005c
+int drawable ic_side_nav_notice3 0x7f02005d
+int drawable ic_side_nav_setting 0x7f02005e
+int drawable ic_side_nav_setting1 0x7f02005f
+int drawable icon_kw 0x7f020060
+int drawable kwang3 0x7f020061
+int drawable notification_template_icon_bg 0x7f020062
+int id action0 0x7f0d0095
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id action_bar 0x7f0d005d
 int id action_bar_activity_content 0x7f0d0000
 int id action_bar_container 0x7f0d005c
@@ -638,13 +679,29 @@ int id action_bar_spinner 0x7f0d0001
 int id action_bar_subtitle 0x7f0d003d
 int id action_bar_title 0x7f0d003c
 int id action_context_bar 0x7f0d005e
+<<<<<<< HEAD
 int id action_divider 0x7f0d0098
+=======
+<<<<<<< HEAD
+int id action_divider 0x7f0d0098
+=======
+int id action_divider 0x7f0d0099
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id action_menu_divider 0x7f0d0002
 int id action_menu_presenter 0x7f0d0003
 int id action_mode_bar 0x7f0d005a
 int id action_mode_bar_stub 0x7f0d0059
 int id action_mode_close_button 0x7f0d003e
+<<<<<<< HEAD
 int id action_search 0x7f0d00a8
+=======
+<<<<<<< HEAD
+int id action_search 0x7f0d00a8
+=======
+int id action_search 0x7f0d00a9
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id activity_chooser_view_content 0x7f0d003f
 int id activity_keywordactivity 0x7f0d006c
 int id activity_main 0x7f0d0070
@@ -655,16 +712,38 @@ int id app_toolbar 0x7f0d0087
 int id auto 0x7f0d0031
 int id beginning 0x7f0d0033
 int id bottom 0x7f0d0021
+<<<<<<< HEAD
 int id button 0x7f0d006d
 int id buttonPanel 0x7f0d0046
 int id cancel_action 0x7f0d0095
 int id cate 0x7f0d0080
 int id category 0x7f0d0090
+=======
+int id button 0x7f0d006e
+int id buttonPanel 0x7f0d0046
+<<<<<<< HEAD
+int id cancel_action 0x7f0d0095
+int id cate 0x7f0d0080
+int id category 0x7f0d0090
+=======
+int id cancel_action 0x7f0d0096
+int id cate 0x7f0d0080
+int id category 0x7f0d0091
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id center 0x7f0d0022
 int id center_horizontal 0x7f0d0023
 int id center_vertical 0x7f0d0024
 int id checkbox 0x7f0d0054
+<<<<<<< HEAD
 int id chronometer 0x7f0d009b
+=======
+<<<<<<< HEAD
+int id chronometer 0x7f0d009b
+=======
+int id chronometer 0x7f0d009c
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id clip_horizontal 0x7f0d002d
 int id clip_vertical 0x7f0d002e
 int id collapseActionView 0x7f0d0036
@@ -672,7 +751,15 @@ int id container 0x7f0d0089
 int id contentPanel 0x7f0d004c
 int id custom 0x7f0d0052
 int id customPanel 0x7f0d0051
+<<<<<<< HEAD
 int id date 0x7f0d0091
+=======
+<<<<<<< HEAD
+int id date 0x7f0d0091
+=======
+int id date 0x7f0d0092
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id decor_content_parent 0x7f0d005b
 int id default_activity_button 0x7f0d0042
 int id delete 0x7f0d0083
@@ -682,11 +769,24 @@ int id design_menu_item_action_area_stub 0x7f0d007c
 int id design_menu_item_text 0x7f0d007b
 int id design_navigation_view 0x7f0d007a
 int id disableHome 0x7f0d000e
+<<<<<<< HEAD
 int id editText 0x7f0d006e
 int id edit_query 0x7f0d005f
 int id edittext 0x7f0d0073
 int id end 0x7f0d0025
 int id end_padder 0x7f0d00a0
+=======
+int id editText 0x7f0d006d
+int id edit_query 0x7f0d005f
+<<<<<<< HEAD
+int id edittext 0x7f0d0073
+int id end 0x7f0d0025
+int id end_padder 0x7f0d00a0
+=======
+int id end 0x7f0d0025
+int id end_padder 0x7f0d00a1
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id enterAlways 0x7f0d0015
 int id enterAlwaysCollapsed 0x7f0d0016
 int id exitUntilCollapsed 0x7f0d0017
@@ -701,6 +801,10 @@ int id homeAsUp 0x7f0d000f
 int id icon 0x7f0d0044
 int id ifRoom 0x7f0d0037
 int id image 0x7f0d0041
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id imageButton 0x7f0d0093
 int id imageView 0x7f0d008a
 int id info 0x7f0d009f
@@ -720,6 +824,30 @@ int id menu_item_mypage 0x7f0d00a5
 int id menu_item_notice 0x7f0d00a6
 int id menu_item_setting 0x7f0d00a7
 int id menu_search 0x7f0d00a9
+<<<<<<< HEAD
+=======
+=======
+int id imageButton 0x7f0d0094
+int id imageView 0x7f0d008a
+int id info 0x7f0d00a0
+int id item_touch_helper_previous_elevation 0x7f0d0005
+int id keybutton 0x7f0d007f
+int id keytext 0x7f0d007e
+int id left 0x7f0d0027
+int id line1 0x7f0d009a
+int id line3 0x7f0d009e
+int id linear 0x7f0d0072
+int id listMode 0x7f0d000b
+int id list_item 0x7f0d0043
+int id listview 0x7f0d006f
+int id media_actions 0x7f0d0098
+int id menu_item_home 0x7f0d00a5
+int id menu_item_mypage 0x7f0d00a6
+int id menu_item_notice 0x7f0d00a7
+int id menu_item_setting 0x7f0d00a8
+int id menu_search 0x7f0d00aa
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id middle 0x7f0d0034
 int id mini 0x7f0d0032
 int id multiply 0x7f0d001b
@@ -734,9 +862,22 @@ int id newnotice_listview 0x7f0d008d
 int id none 0x7f0d0010
 int id normal 0x7f0d000c
 int id notice_date 0x7f0d0081
+<<<<<<< HEAD
 int id notice_fragment_view 0x7f0d008f
 int id notice_id 0x7f0d0092
 int id notice_spinner 0x7f0d008e
+=======
+<<<<<<< HEAD
+int id notice_fragment_view 0x7f0d008f
+int id notice_id 0x7f0d0092
+int id notice_spinner 0x7f0d008e
+=======
+int id notice_fragment_view 0x7f0d0090
+int id notice_id 0x7f0d0093
+int id notice_layout 0x7f0d008e
+int id notice_spinner 0x7f0d008f
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id notice_title 0x7f0d0082
 int id parallax 0x7f0d002b
 int id parentPanel 0x7f0d0048
@@ -763,8 +904,19 @@ int id search_plate 0x7f0d0065
 int id search_src_text 0x7f0d0066
 int id search_voice_btn 0x7f0d006a
 int id select_dialog_listview 0x7f0d006b
+<<<<<<< HEAD
 int id setting_switch_keyword 0x7f0d00a2
 int id setting_switch_newnotice 0x7f0d00a1
+=======
+<<<<<<< HEAD
+int id setting_switch_keyword 0x7f0d00a2
+int id setting_switch_newnotice 0x7f0d00a1
+=======
+int id setting_switch_keyword 0x7f0d00a3
+int id setting_switch_newnotice 0x7f0d00a2
+int id setting_text_keword 0x7f0d00a4
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id shortcut 0x7f0d0055
 int id showCustom 0x7f0d0011
 int id showHome 0x7f0d0012
@@ -778,6 +930,7 @@ int id src_atop 0x7f0d001d
 int id src_in 0x7f0d001e
 int id src_over 0x7f0d001f
 int id start 0x7f0d0029
+<<<<<<< HEAD
 int id status_bar_latest_event_content 0x7f0d0096
 int id submenuarrow 0x7f0d0057
 int id submit_area 0x7f0d0068
@@ -791,6 +944,37 @@ int id title 0x7f0d0045
 int id title_template 0x7f0d004a
 int id toolbar 0x7f0d0088
 int id toolbar_search 0x7f0d0072
+=======
+<<<<<<< HEAD
+int id status_bar_latest_event_content 0x7f0d0096
+int id submenuarrow 0x7f0d0057
+int id submit_area 0x7f0d0068
+int id tabMode 0x7f0d000d
+int id text 0x7f0d009e
+int id text2 0x7f0d009c
+int id textSpacerNoButtons 0x7f0d004f
+int id textView 0x7f0d008b
+int id time 0x7f0d009a
+int id title 0x7f0d0045
+int id title_template 0x7f0d004a
+int id toolbar 0x7f0d0088
+int id toolbar_search 0x7f0d0072
+=======
+int id status_bar_latest_event_content 0x7f0d0097
+int id submenuarrow 0x7f0d0057
+int id submit_area 0x7f0d0068
+int id tabMode 0x7f0d000d
+int id text 0x7f0d009f
+int id text2 0x7f0d009d
+int id textSpacerNoButtons 0x7f0d004f
+int id textView 0x7f0d008b
+int id time 0x7f0d009b
+int id title 0x7f0d0045
+int id title_template 0x7f0d004a
+int id toolbar 0x7f0d0088
+int id toolbar_search 0x7f0d0073
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 int id top 0x7f0d002a
 int id topPanel 0x7f0d0049
 int id touch_outside 0x7f0d0075

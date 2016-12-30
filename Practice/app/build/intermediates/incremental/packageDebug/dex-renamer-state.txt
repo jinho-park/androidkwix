@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Thu Dec 29 17:04:54 KST 2016
 base.0=C\:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41fe609166617ae575c7af672608dc0270549280
 renamed.1=classes2.dex
@@ -5,3 +6,19 @@ renamed.0=classes.dex
 file.1=C\:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e5426c27fd7b9d3b4de394bb81ce6375571d96d0\\classes.dex
 base.1=C\:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e5426c27fd7b9d3b4de394bb81ce6375571d96d0
 file.0=C\:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_41fe609166617ae575c7af672608dc0270549280\\classes.dex
+=======
+<<<<<<< HEAD
+#Thu Dec 29 19:21:10 KST 2016
+base.0=C\:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+=======
+#Thu Dec 29 12:53:14 KST 2016
+base.0=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6eef3193dfdea4259d334c869f471bcb77d85037
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_203f9eab65eff2af8dbce523aa87626913b2c644/classes.dex
+base.1=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_203f9eab65eff2af8dbce523aa87626913b2c644
+file.0=/home/hata/Desktop/kwix_git/androidkwix/Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6eef3193dfdea4259d334c869f471bcb77d85037/classes.dex
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72

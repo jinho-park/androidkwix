@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
     abi="x86"
     api-level="21"
     density="xxhdpi"
@@ -11,16 +12,52 @@
     <task
         name="javac"
         duration="0" />
+=======
+<<<<<<< HEAD
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+=======
+    abi="x86"
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="32876586528317"
+    token="-792731546571699975" >
+
+    <task
+        name="javac"
+<<<<<<< HEAD
+        duration="1400" />
+=======
+        duration="0" />
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        duration="29" />
+    <task
+        name="verifier"
+        duration="66" />
+
+    <artifact
+        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+
+    <build timestamp="457735424803438" >
+=======
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
         duration="0" />
     <task
         name="verifier"
         duration="0" />
 
+<<<<<<< HEAD
     <build
         timestamp="23334704081012"
         verifier="FULL_BUILD_REQUESTED" >
@@ -40,7 +77,34 @@
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+=======
+    <artifact
+        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="32519514898425" >
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+        <artifact
+            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+<<<<<<< HEAD
+    <build timestamp="458076126606325" >
+        <artifact
+            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+=======
+    <build timestamp="32793410688881" >
+        <artifact
+            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="32876586528317" >
+        <artifact
+            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\res\resources-debug.ap_"
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
             type="RESOURCES" />
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
     </build>
     <build timestamp="30185867454946" />
 

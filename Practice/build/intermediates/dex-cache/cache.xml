@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items version="2" >
 
+<<<<<<< HEAD
     <item
         is-multidex="true"
         jar="C:\Users\dongho\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
@@ -93,3 +94,82 @@
     </item>
 
 </items>
+=======
+<<<<<<< HEAD
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_8553d27a672dba092d09317231dd998b9e52d0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_4786f1d419f39091fef8a24b8c72d2632c372c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_3e5d48ece3d45e452943d1d61cd0e068609d3158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_81916f73b5138b2381cb476a295dc0948414f538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_49296a14d61aa9a076b5056232c5433a44471319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_e4278fbbbfa35f24d66d2d5c663562bd8fe4b5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\CHAE YOULIM\Documents\GitHub\androidkwix\Practice\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_92b7d29f4347f59d9c6ddf85d156ec389151cf9f.jar" />
+    </item>
+
+</items>
+=======
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72

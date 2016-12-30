@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 android:layout_height="match_parent"
 android:layout_width="match_parent"
 android:orientation="vertical"
@@ -19,5 +23,26 @@ android:id="@+id/notice_spinner">
     android:id="@+id/notice_fragment_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
+=======
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/notice_layout">
+
+    <android.support.v7.widget.AppCompatSpinner
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/colorAccent"
+        android:id="@+id/notice_spinner"
+        android:entries="@array/planet_prompt"
+        android:prompt="@string/planets_array" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/notice_fragment_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
 
 </LinearLayout>

@@ -1,4 +1,12 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name"></string>
+=======
+<<<<<<< HEAD
+    <string name="app_name"></string>
+=======
+    <string name="app_name">KwangWoon Diary</string>
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
     <string name="planets_array">분류</string>
 </resources>

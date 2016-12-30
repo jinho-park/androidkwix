@@ -11,12 +11,29 @@
     tools:context="com.example.owner.practice.Keywordactivity">
 
 
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="130pt"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/editText"
         android:layout_alignParentTop="true"
+<<<<<<< HEAD
+=======
+        android:layout_toEndOf="@+id/editText"
+<<<<<<< HEAD
+        android:background="@android:color/transparent"
+        android:text="+추가"
+        android:textSize="15dp" />
+=======
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
         android:layout_marginStart="14dp"
         android:layout_toEndOf="@+id/editText"
         android:text="+추가" />
@@ -27,7 +44,13 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:ems="10"
+<<<<<<< HEAD
         android:inputType="textPersonName" />
+=======
+        android:id="@+id/editText"
+        android:layout_alignParentStart="true" />
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
+>>>>>>> 256750745942da551b4f810d12ada3986ad69b72
 
     <ListView
         android:id="@+id/listview"

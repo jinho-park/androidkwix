@@ -1,8 +1,10 @@
 package com.example.owner.practice;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
+import android.support.v7.app.AlertDialog;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -68,9 +70,22 @@ public class ListViewAdapter extends BaseAdapter{
         delete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                dbManager.delete(item.getCats(), item.getTitles(), item.getDates(), item.getUrls());
-                list.remove(item);
-                notifyDataSetChanged();
+                AlertDialog.Builder alt_bld = new AlertDialog.Builder(context);
+                alt_bld.setMessage("삭제하시겠습니까").setCancelable(false).setPositiveButton("예", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+                        dbManager.delete(item.getCats(), item.getTitles(), item.getDates(), item.getUrls());
+                        list.remove(item);
+                        notifyDataSetChanged();
+                    }
+                }).setNegativeButton("아니오", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+                        dialogInterface.cancel();
+                    }
+                });
+                AlertDialog alert = alt_bld.create();
+                alert.show();
             }
         });
 
@@ -86,5 +101,9 @@ public class ListViewAdapter extends BaseAdapter{
         item.setUrls(url);
 
         list.add(item);
+    }
+
+    private void DialogSimple(Context context) {
+
     }
 }
