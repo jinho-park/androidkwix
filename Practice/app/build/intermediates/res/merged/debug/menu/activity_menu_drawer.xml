@@ -7,6 +7,7 @@
         android:orderInCategory="1"/>
     <item
         android:id="@+id/menu_item_mypage"
+<<<<<<< HEAD
         android:icon="@drawable/ic_side_nav_mypage4"
         android:orderInCategory="2"
         android:title="My Page" />
@@ -20,4 +21,16 @@
         android:icon="@drawable/ic_side_nav_setting1"
         android:orderInCategory="100"
         android:title="설정" />
+=======
+        android:title="My page"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/menu_item_notice"
+        android:title="공지사항"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/menu_item_setting"
+        android:title="setting"
+        android:orderInCategory="100"/>
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
 </menu>

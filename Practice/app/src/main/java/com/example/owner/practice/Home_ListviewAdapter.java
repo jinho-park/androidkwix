@@ -1,6 +1,7 @@
 package com.example.owner.practice;
 
 import android.content.Context;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,7 +15,8 @@ import java.util.ArrayList;
  * Created by Owner on 2016-12-27.
  */
 public class Home_ListviewAdapter extends BaseAdapter {
-    private ArrayList<Notice_List> list = new ArrayList<Notice_List>();
+    private ArrayList<Notice_List> list ;
+    final String TAG = "HOME_ADPATER";
 
     public Home_ListviewAdapter(ArrayList<Notice_List> list){
         this.list = list;
@@ -46,10 +48,10 @@ public class Home_ListviewAdapter extends BaseAdapter {
             view = layoutInflater.inflate(R.layout.listview_newitem, viewGroup, false);
         }
 
-        final TextView category = (TextView)view.findViewById(R.id.cate);
-        final TextView title = (TextView)view.findViewById(R.id.notice_title);
-        final TextView date = (TextView)view.findViewById(R.id.notice_date);
-
+        final TextView category = (TextView)view.findViewById(R.id.newitem_cate);
+        final TextView title = (TextView)view.findViewById(R.id.newitem_title);
+        final TextView date = (TextView)view.findViewById(R.id.newitem_date);
+        if(category == null) Log.d(TAG, "category is null");
         final Notice_List item = list.get(i);
 
         category.setText(item.getCats());

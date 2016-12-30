@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
+import java.util.ArrayList;
 import java.util.Vector;
 
 /**
@@ -24,7 +25,10 @@ public class NewNotice_Fragment extends Fragment {
         Log.d("NEWNOTICE", "Fragment start");
 
         listView = (ListView)view.findViewById(R.id.newnotice_listview);
-        Home_ListviewAdapter adapter = new Home_ListviewAdapter(dbManager.getData());
+        ArrayList<Notice_List> list = dbManager.getData();
+        if(list == null)  Log.d("ARRAY", "list is null");
+        Log.d("NEWNOTICE", "size : " + list.size());
+        Home_ListviewAdapter adapter = new Home_ListviewAdapter(list);
         listView.setAdapter(adapter);
 
         return view;

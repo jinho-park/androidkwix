@@ -373,6 +373,7 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-hr\\values-hr.xml",
+<<<<<<< HEAD
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -758,6 +759,8 @@
                 },
                 "from": {
                     "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-hr\\values-hr.xml",
+=======
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

@@ -14,6 +14,7 @@
     {
         "merged": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+<<<<<<< HEAD
     },
     {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
@@ -22,5 +23,7 @@
     {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+=======
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
     }
 ]

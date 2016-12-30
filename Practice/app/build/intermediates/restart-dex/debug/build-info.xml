@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
     abi="arm64-v8a,armeabi-v7a,armeabi"
+=======
+    abi="x86"
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
     api-level="23"
-    density="xxxhdpi"
+    density="420dpi"
     format="7"
-    timestamp="458076126606325"
+    timestamp="32876586528317"
     token="-792731546571699975" >
 
     <task
         name="javac"
+<<<<<<< HEAD
         duration="1400" />
+=======
+        duration="0" />
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="29" />
     <task
         name="verifier"
@@ -25,14 +34,38 @@
         type="DEX" />
 
     <build timestamp="457735424803438" >
+=======
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="32519514898425" >
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
         <artifact
             location="C:\Users\Owner\Documents\GitHub\Practice\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+<<<<<<< HEAD
     <build timestamp="458076126606325" >
         <artifact
             location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
             type="DEX" />
+=======
+    <build timestamp="32793410688881" >
+        <artifact
+            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="32876586528317" >
+        <artifact
+            location="C:\Users\Owner\Documents\GitHub\Practice\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+>>>>>>> b14b29aec92e2a19f2542fa5089115e358b16885
     </build>
 
 </instant-run>
