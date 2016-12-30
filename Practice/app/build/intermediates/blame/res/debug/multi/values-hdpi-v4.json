@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
-=======
-        "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
->>>>>>> refs/remotes/origin/master
+        "outputFile": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -16,11 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-=======
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
->>>>>>> refs/remotes/origin/master
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

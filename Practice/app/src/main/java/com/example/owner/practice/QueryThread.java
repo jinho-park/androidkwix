@@ -70,10 +70,6 @@ public class QueryThread extends Thread {
                     mContext.handler.sendEmptyMessage(mContext.THREAD_QUERY_SUCCESS_INFO);
                 }
             }
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/master
         }catch (IOException e){
             Log.d(TAG, e.toString());
         }catch (ClassNotFoundException e){

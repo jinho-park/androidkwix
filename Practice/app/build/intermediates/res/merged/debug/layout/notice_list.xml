@@ -63,7 +63,7 @@
             android:layout_marginTop="10dip"
             android:background="@android:color/transparent"
             android:paddingTop="10dip"
-            android:src="@drawable/ic_notice_list_btn_on" />
+            android:src="@drawable/ic_size_nav_notice4" />
     </LinearLayout>
 
 

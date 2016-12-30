@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
-=======
-        "outputFile": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
->>>>>>> refs/remotes/origin/master
+        "outputFile": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "C:\\Users\\Owner\\Documents\\GitHub\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v18\\values-v18.xml",
-=======
-                    "file": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v18\\values-v18.xml",
->>>>>>> refs/remotes/origin/master
+                    "file": "C:\\Users\\dongho\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
