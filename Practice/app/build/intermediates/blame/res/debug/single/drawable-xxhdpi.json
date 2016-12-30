@@ -4,6 +4,10 @@
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_side_nav_notice1.png"
     },
     {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_side_nav_home.png",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_side_nav_home.png"
+    },
+    {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_mp_delete.png",
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mp_delete.png"
     },
@@ -40,12 +44,24 @@
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notice_list_btn_off.png"
     },
     {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_side_nav_notice.png",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_side_nav_notice.png"
+    },
+    {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_side_nav_mypage1.png",
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_side_nav_mypage1.png"
     },
     {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_side_nav_setting.png",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_side_nav_setting.png"
+    },
+    {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_notice_list_btn_on.png",
         "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notice_list_btn_on.png"
+    },
+    {
+        "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_notice_add_btn.png",
+        "source": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notice_add_btn.png"
     },
     {
         "merged": "C:\\Users\\CHAE YOULIM\\Documents\\GitHub\\androidkwix\\Practice\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_side_nav_notice3.png",

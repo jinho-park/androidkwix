@@ -8,28 +8,6 @@
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
-        android:id="@+id/cate"
-        android:layout_weight="1"/>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/notice_title"
-        android:layout_weight="4"/>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/notice_date"
-        android:layout_weight="1"/>
-
-    <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/delete"
-        android:src="@drawable/ic_delete_mynotice"/>
-=======
         android:baselineAligned="true"
         android:orientation="horizontal">
 
@@ -88,7 +66,7 @@
             android:background="@android:color/transparent"
             android:paddingTop="10dip"
             android:paddingLeft="1dip"
-            android:src="@drawable/ic_mp_delete3" />
+            android:src="@drawable/ic_mp_delete3"/>
 
     </LinearLayout>
 
@@ -96,5 +74,4 @@
         android:layout_width="match_parent"
         android:layout_height="1px"
         android:background="#444444" />
->>>>>>> refs/remotes/origin/master
 </LinearLayout>

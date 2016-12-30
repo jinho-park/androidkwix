@@ -24,7 +24,7 @@
     <ListView
         android:id ="@+id/keyword_settinglist"
         android:layout_width="match_parent"
-        android:layout_height="23dp"
-        android:layout_weight="0.07" />
+        android:layout_height="10dp"
+        android:layout_weight="1" />
 
 </LinearLayout>

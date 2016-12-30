@@ -21,10 +21,10 @@
         android:padding="20dip"
         android:text="키워드 알림" />
 
-    <ListView
-        android:id ="@+id/keyword_settinglist"
-        android:layout_width="match_parent"
-        android:layout_height="23dp"
-        android:layout_weight="0.07" />
-
+    <TextView
+        android:id="@+id/setting_text_keword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dip"
+        android:text="키워드 편집" />
 </LinearLayout>

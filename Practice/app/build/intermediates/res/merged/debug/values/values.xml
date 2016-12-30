@@ -40,11 +40,7 @@
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="colorAccent">#ff6f65</color>
-<<<<<<< HEAD
-    <color name="colorPrimary">#ff6f65</color>
-=======
     <color name="colorPrimary">#ff7b71</color>
->>>>>>> refs/remotes/origin/master
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -529,15 +525,7 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-<<<<<<< HEAD
-<<<<<<< HEAD
         <!-- Customize your theme here. -->
-=======
-        
->>>>>>> refs/remotes/origin/master
-=======
-        <!-- Customize your theme here. -->
->>>>>>> refs/remotes/origin/master
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorAccent</item>
         <item name="colorAccent">@color/colorAccent</item>

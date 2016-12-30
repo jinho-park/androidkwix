@@ -31,7 +31,7 @@ public class Setting_Fragment extends Fragment implements AdapterView.OnItemClic
         keyWord = (Switch) view.findViewById(R.id.setting_switch_keyword);
         keyword_settinglist = (ListView)view.findViewById(R.id.keyword_settinglist);
         keyword_settinglist.setOnItemClickListener(this);
-        data_list.add("키워드 편집");
+        data_list.add("키워드 편집") ;
         m_Adapter = new ArrayAdapter<String>(getContext(), android.R.layout.simple_list_item_1,data_list);
         keyword_settinglist.setAdapter(m_Adapter);
         m_Adapter.notifyDataSetChanged();
